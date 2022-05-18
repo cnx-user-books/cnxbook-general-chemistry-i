@@ -1,0 +1,506 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Atomic Molecular Theory</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>432000cb-eb2c-4282-a590-90f596a58cbc</md:uuid>
+</metadata>
+  <content><section id="id8487474"><title>Foundation</title><para id="id8487485">There are over 18 million known substances in
+	our world. We will begin by assuming that all materials are
+	made from <term>elements</term>, materials which cannot be
+	decomposed into simpler substances. We will assume that we
+	have identified all of these elements, and that there a very
+	small number of them. All other pure substances, which we call
+	<term>compounds</term>, are made up from these elements and
+	can be decomposed into these elements. For example, metallic
+	iron and gaseous oxygen are both elements and cannot be
+	reduced into simpler substances, but iron rust, or ferrous
+	oxide, is a compound which can be reduced to elemental iron
+	and oxygen. The elements are not transmutable: one element
+	cannot be converted into another. Finally, we will assume that
+	we have demonstrated the <term>Law of Conservation of
+	  Mass</term>.
+	<rule type="law" id="cosvmass">
+	  <title>Law of Conservation of Mass</title>
+	  <statement id="idp5270768"><para id="cnsmassp">The total mass of all products of a chemical reaction is equal to the total mass of all reactants of that reaction.</para></statement></rule> These statements are summaries of many observations, which required a tremendous amount of experimentation to achieve and even more creative thinking to systematize as we have written them here. By making these assumptions, we can proceed directly with the experiments which led to the development of the atomic-molecular theory.</para></section>
+<section id="id8569858"><title>Goals</title><para id="id8569873">The statements above, though correct, are actually more vague than they might first appear. For example, exactly what do we mean when we say that all materials are made from elements? Why is it that the elements cannot be decomposed? What does it mean to combine elements into a compound?  We want to understand more about the nature of elements and compounds so we can describe the processes by which elements combine to form compounds, by which compounds are decomposed into elements, and by which compounds are converted from one to another during chemical reactions.</para><para id="id8522734">One possibility for answering these questions is to assume that a compound is formed when indestructible elements are simply mixed together, as for example, if we imagine stirring together a mixture of sugar and sand. Neither the sand nor the sugar is decomposed in the process. And the mixture can be decomposed back into the original components. In this case, though, the resultant mixture exhibits the properties of <emphasis>both</emphasis> components: for example, the mixture would taste sweet, owing to the sugar component, but gritty, characteristic of the sand component.</para><para id="id8522767">In contrast, the compound we call iron rust bears little resemblance to elemental iron: iron rust does not exhibit elemental iron's color, density, hardness, magnetism, etc. Since the properties of the elements are not maintained by the compound, then the compound must not be a simple mixture of the elements. </para><para id="id8522786">We could, of course, jump directly to the answers to these questions by stating that the elements themselves are comprised of atoms: indivisible, identical particles distinctive of that element. Then a compound is formed by combining the atoms of the composite elements. Certainly, the Law of Conservation of Mass would be easily explained by the existence of immutable atoms of fixed mass.</para><para id="id8472995">However, if we do decide to jump to conclusions and assume the existence of atoms without further evidence (as did the leading chemists of the seventeenth and eighteenth centuries), it does not lead us anywhere. What happens to iron when, after prolonged heating in air, it converts to iron rust? Why is it that the resultant combination of iron and air does not maintain the properties of either, as we would expect if the atoms of each are mixed together? An atomic view of nature would not yet provide any understanding of how the air and the iron have interacted or combined to form the new compound, and we can't make any predictions about how much iron will produce how much iron rust. There is no basis for making any statements about the properties of these atoms. We need further observations.</para></section>
+    <section id="id8473035"><title>Observation 1: Mass relationships
+	during chemical reactions</title><para id="id8473051">The
+	Law of Conservation of Mass, by itself alone,
+	does not require an atomic view of the elements. Mass
+	could be conserved even if matter were not atomic. The
+	importance of the Law of Conservation of Mass is
+	that it reveals that we can usefully measure the masses of the
+	elements which are contained in a fixed mass of a
+	compound. As an example, we can decompose copper
+	carbonate into its constituent elements, copper, oxygen, and
+	carbon, weighing each and taking the ratios of these
+	masses. The result is that every sample of copper
+	carbonate is 51.5% copper, 38.8% oxygen, and 9.7%
+	carbon. Stated differently, the masses of copper,
+	oxygen, and carbon are in the ratio of 5.3 : 4 : 1, for every
+	measurement of every sample of copper
+	carbonate. Similarly, lead sulfide is 86.7% lead and
+	13.3% sulfur, so that the mass ratio for lead to sulfur in
+	lead sulfide is always 6.5 : 1. Every sample of copper
+	carbonate and every sample of lead sulfide will produce these
+	elemental proportions, regardless of how much material we
+	decompose or where the material came from. These results
+	are examples of a general principle known as the <term>Law of
+	  Definite Proportions</term>.
+	<rule type="law" id="defprop"><title>Law of Definite
+	  Proportions</title>
+	  <statement id="idm8464752"><para id="defpopp">When two or more elements
+	combine to form a compound, their masses in that compound are
+	in a fixed and definite ratio.</para></statement></rule></para><para id="id8556953">These data help justify an atomic view of
+	matter. We can simply argue that, for example, lead
+	sulfide is formed by taking one lead atom and combining it
+	with one sulfur atom. If this were true, then we also
+	must conclude that the ratio of the mass of a lead
+	<emphasis>atom</emphasis> to that of a sulfur
+	<emphasis>atom</emphasis> is the same as the 6.5 : 1 lead to
+	sulfur mass ratio we found for the bulk lead
+	sulfide. This atomic explanation looks like the
+	definitive answer to the question of what it means to combine
+	two elements to make a compound, and it should even permit
+	prediction of what quantity of lead sulfide will be produced
+	by a given amount of lead. For example, 6.5g of lead
+	will produce exactly 7.5g of lead sulfide, 50g of lead will
+	produce 57.7g of lead sulfide, etc.</para><para id="id8467682">There is a problem, however. We can
+	illustrate with three compounds formed from hydrogen, oxygen,
+	and nitrogen. The three mass proportion measurements are
+	given in the following <link target-id="table1">table</link>. First we examine nitric oxide, to find
+	that the mass proportion is 8 : 7 oxygen to nitrogen. If
+	this is one nitrogen atom combined with one oxygen atom, we
+	would expect that the mass of an oxygen atom is 8/7=1.14 times
+	that of a nitrogen atom. Second we examine ammonia,
+	which is a combination of nitrogen and hydrogen with the mass
+	proportion of 7 : 1.5 nitrogen to hydrogen. If this is
+	one nitrogen combined with one hydrogen, we would expect that
+	a nitrogen atom mass is 4.67 times that of a hydrogen atom
+	mass. These two expectations predict a relationship
+	between the mass of an oxygen atom and the mass of a hydrogen
+	atom. If the mass of an oxygen atom is 1.14 times the mass of
+	a nitrogen atom and if the mass of a nitrogen atom is 4.67
+	times the mass of a hydrogen atom, then we must conclude that
+	an oxygen atom has a mass which is 1.14 × 4.67 = 5.34
+	times that of a hydrogen atom. </para> <para id="id8467734">But there is a problem with this
+	calculation. The third line of the following <link target-id="table1">table</link> shows that the compound
+	formed from hydrogen and oxygen is water, which is found to
+	have mass proportion 8:1 oxygen to hydrogen. Our
+	expectation should then be that an oxygen atom mass is 8.0
+	times a hydrogen atom mass. Thus the three measurements
+	in 
+	 the following <link target-id="table1">table</link> appear to lead to contradictory
+	expectations of atomic mass ratios. How are we to
+	reconcile these results?</para>
+
+   
+	    
+      <table id="table1" summary="">
+<title>Mass Relationships for Hydrogen, Nitrogen, Oxygen	  Compounds</title>
+<tgroup cols="8" align="center"><colspec colname="col1" colnum="1" colwidth="50pt"/>
+	    <colspec colname="col2" colnum="2" colwidth="27pt"/>
+	    <colspec colname="col3" colnum="3" colwidth="50pt"/>
+	    <colspec colname="col4" colnum="4" colwidth="45pt"/>
+	    <colspec colname="col5" colnum="5" colwidth="42pt"/>
+	    <colspec colname="col6" colnum="6" colwidth="55pt"/>
+	    <colspec colname="col7" colnum="7" colwidth="55pt"/>
+	    <colspec colname="col8" colnum="8" colwidth="55pt"/>
+
+	    <thead>
+	      <row>
+		<entry>Compound</entry>
+		<entry>Total Mass</entry>
+		<entry>Mass of Hydrogen</entry>
+		<entry>Mass of Nitrogen</entry>
+		<entry>Mass of Oxygen</entry>
+		<entry>"Expected" Relative Atomic Mass of Hydrogen</entry>
+		<entry>"Expected" Relative Atomic Mass of Nitrogen</entry>
+		<entry>"Expected" Relative Atomic Mass of Oxygen</entry>
+	      </row>
+	    </thead>
+	    <tbody>
+	      <row><entry>Nitric
+		  Oxide</entry><entry>15.0
+		  g</entry><entry>-</entry><entry>7.0
+		  g</entry><entry>8.0 g</entry><entry>-
+		</entry><entry>7.0 </entry><entry>8.0
+		</entry></row><row><entry>Ammonia</entry><entry>8.5
+		  g</entry><entry>1.5 g </entry><entry>7.0
+		  g</entry><entry>- </entry><entry>1.5</entry><entry>7.0
+		</entry><entry>-</entry></row><row><entry>Water</entry><entry>9.0
+		  g</entry><entry>1.0 g</entry><entry>- </entry><entry>8.0
+		  g</entry><entry>1.0</entry><entry>-</entry><entry>8.0</entry></row>
+	    </tbody>
+	  
+
+</tgroup>
+</table>
+<para id="id8569043">One possibility is that we were mistaken in assuming that there are atoms of the elements which combine to form the different compounds. If so, then we would not be surprised to see variations in relative masses of materials which combine.</para>
+<para id="id8464001">Another possibility is that we have erred in our reasoning. Looking back, we see that we have to assume how many atoms of each type are contained in each compound to find the relative masses of the atoms. In each of the above examples, we assumed the ratio of atoms to be 1:1 in each compound. If there are atoms of the elements, then this assumption must be wrong, since it gives relative atomic masses which differ from compound to compound. How could we find the correct atomic ratios? It would help if we knew the ratio of the atomic masses: for example, if we knew that the oxygen to hydrogen mass ratio were 8:1, then we could conclude that the atomic ratio in water would be 1 oxygen and 1 hydrogen. Our reasoning seems to circular: to know the atomic masses, we must know the <term>formula</term> of the compound (the numbers of atoms of each type), but to know the formula we must know the masses.</para><para id="id8464046">Which of these possibilities is correct? Without further observations, we cannot say for certain whether matter is composed of atoms or not.</para></section>
+<section id="id8464060"><title>Observation 2: Multiple Mass
+		Ratios</title><para id="id8464071">Significant insight
+		into the above problem is found by studying different
+		compounds formed from the same elements. For example,
+		there are actually three oxides of nitrogen, that is,
+		compounds composed only of nitrogen and oxygen. For
+		now, we will call them oxide A, oxide B, and oxide
+		C. Oxide A has oxygen to nitrogen mass ratio 2.28 :
+		1. Oxide B has oxygen to nitrogen mass ratio 1.14 : 1,
+		and oxide C has oxygen to nitrogen mass ratio 0.57 :
+		1. </para><para id="id7988391">The fact that there are
+		three mass ratios might seem to contradict the
+		Law of Definite Proportions, which on the
+		surface seems to say that there should be just one
+		ratio. However, each mass combination gives rise to a
+		completely unique chemical compound with very
+		different chemical properties. For example, oxide A is
+		very toxic, whereas oxide C is used as an
+		anesthesia. It is also true that the mass ratio is not
+		arbitrary or continuously variable: we cannot pick
+		just any combination of masses in combining oxygen and
+		nitrogen, rather we must obey one of only three. So
+		there is no contradiction: we simply need to be
+		careful with the Law of Definite
+		Proportions to say <emphasis>that each unique
+		compound</emphasis> has a definite mass ratio of
+		combining elements.</para><para id="id7988437">These
+		new mass ratio numbers are highly suggestive in the
+		following way. Notice that, in each case, we took the
+		ratio of oxygen mass to a nitrogen mass of 1, and that
+		the resultant ratios have a very simple relationship: 
+	<equation id="eqn1">
+	  <m:math>
+	    <m:apply>
+	      <m:eq/>
+	      <m:mrow>
+		<m:mn>2.28</m:mn>
+		<m:mo>:</m:mo>
+		<m:mn>1.14</m:mn>
+		<m:mo>:</m:mo>
+		<m:mn>0.57</m:mn>
+	      </m:mrow>
+	      <m:mrow>
+		<m:mn>2</m:mn>
+		<m:mo>:</m:mo>
+		<m:mn>1</m:mn>
+		<m:mo>:</m:mo>
+		<m:mn>0.5</m:mn>
+	      </m:mrow>
+	      <m:mrow>
+		<m:mn>4</m:mn>
+		<m:mo>:</m:mo>
+		<m:mn>2</m:mn>
+		<m:mo>:</m:mo>
+		<m:mn>1</m:mn>
+	      </m:mrow>
+	    </m:apply>
+	  </m:math>
+	</equation>
+The masses of oxygen appearing in these compounds are in simple whole
+	number ratios when we take a fixed amount of nitrogen. The
+	appearance of these simple whole numbers is very
+	significant. These integers imply that the compounds contain a
+	multiple of a fixed unit of mass of oxygen. The simplest
+	explanation for this fixed unit of mass is that oxygen is
+	<term>particulate</term>. We call the fixed unit of mass an
+	<term>atom</term>.  We now assume that the compounds have been
+	formed from combinations of atoms with fixed masses, and that
+	different compounds have differing numbers of atoms. The mass
+	ratios make it clear that oxide B contains twice as many
+	oxygen atoms (per nitrogen atom) as does oxide C and half as
+	many oxygen atoms (per nitrogen atom) as does oxide A. The
+	simple mass ratios must be the result of the simple ratios in
+	which atoms combine into molecules. If, for example, oxide C
+	has the molecular formula 
+	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math>, then oxide B has the formula
+	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:msub>
+	      <m:mi>O</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	  </m:mrow>
+	</m:math>, and oxide A has the formula 
+	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:msub>
+	      <m:mi>O</m:mi>
+	      <m:mn>4</m:mn>
+	    </m:msub>
+	  </m:mrow>
+	</m:math>. There are other
+	possibilities: if oxide B has molecular formula 
+	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math>, then oxide A has formula 
+	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:msub>
+	      <m:mi>O</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	  </m:mrow>
+	</m:math>, and oxide C has formula
+	<m:math>
+	  <m:mrow>
+	    <m:msub>
+	      <m:mi>N</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math>. Or if oxide A has formula
+	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math>, then oxide B has formula
+	<m:math>
+	  <m:mrow>
+	    <m:msub>
+	      <m:mi>N</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math>
+	and oxide C has formula
+	<m:math>
+	  <m:mrow>
+	    <m:msub>
+	      <m:mi>N</m:mi>
+	      <m:mn>4</m:mn>
+	    </m:msub>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math>. These three possibilities are listed in the following 
+	<link target-id="table2">table</link>.</para>
+
+      <table frame="all" id="table2" summary="">
+<title>Possible Molecular Formulae for Nitrogen	Oxides</title>
+<tgroup cols="4" align="center"><colspec colname="col1" colnum="1" colwidth="1*"/>
+	    <colspec colname="col2" colnum="2" colwidth="1*"/>
+	    <colspec colname="col3" colnum="3" colwidth="1*"/>
+	    <colspec colname="col4" colnum="4" colwidth="1*"/>
+           <thead>
+	    <row>
+	      <entry>Assuming that:</entry>
+	      <entry>Oxide C is 	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry>
+	      <entry>Oxide B is 	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry>
+	      <entry>Oxide A is 	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry>
+	    </row>
+	  </thead>
+	  <tbody>
+	    <row>
+	      <entry>Oxide A
+		is</entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:msub>
+	      <m:mi>O</m:mi>
+	      <m:mn>4</m:mn>
+	    </m:msub>
+	  </m:mrow>
+	</m:math></entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:msub>
+	      <m:mi>O</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	  </m:mrow>
+	</m:math></entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry></row><row>
+	      <entry>Oxide B is</entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:msub>
+	      <m:mi>O</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	  </m:mrow>
+	</m:math></entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:msub>
+	      <m:mi>N</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry></row><row>
+	      <entry>Oxide C is</entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:mi>N</m:mi>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:msub>
+	      <m:mi>N</m:mi>
+	      <m:mn>2</m:mn>
+	    </m:msub>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry><entry>	<m:math>
+	  <m:mrow>
+	    <m:msub>
+	      <m:mi>N</m:mi>
+	      <m:mn>4</m:mn>
+	    </m:msub>
+	    <m:mi>O</m:mi>
+	  </m:mrow>
+	</m:math></entry></row></tbody>
+
+</tgroup>
+</table>
+      <para id="id8335445">We don't have a way (from these data) to
+      know which of these sets of molecular formulae are right. But we
+      can assert that either one of them or one analogous to them is
+      right. </para><para id="id8335462">Similar data are found for
+      any set of compounds formed from common elements. For example,
+      there are two oxides of carbon, one with oxygen to carbon mass
+      ratio 1.33:1 and the other with mass ratio 2.66:1. The second
+      oxide must have twice as many oxygen atoms, per carbon atom, as
+      does the first. The general statement of this observation is the
+      <term>Law of Multiple Proportions</term>.
+	<rule type="law" id="multprop"><title>Law of Multiple
+      Proportions</title>
+	  <statement id="idp6343104"><para id="mpropp">When two elements
+      combine to form more than one compound, the mass of element A
+      which combines in the first compound with a given amount of
+      element B has a simple whole number ratio with the mass of
+      element A which combines in the second compound with the same
+      given mass of element B.</para></statement></rule>
+	  This sounds confusing, but an example
+      clarifies this statement. Consider the carbon oxides, and let
+      carbon be element B and oxygen be element A. Take a fixed given
+      mass of carbon (element B), say 1 gram. The mass of oxygen which
+      combines with 1 gram of carbon to form the first oxide is 1.33
+      grams. The mass of oxygen which combines with 1 gram of carbon
+      to form the second oxide is 2.66. These masses are in ratio 
+	<m:math type="inline">
+	  <m:apply>
+	    <m:eq/>
+	    <m:mrow>
+	      <m:mn>2.66</m:mn>
+	      <m:mo>:</m:mo>
+	      <m:mn>1.33</m:mn>
+	    </m:mrow>
+	    <m:mrow>
+	      <m:mn>2</m:mn>
+	      <m:mo>:</m:mo>
+	      <m:mn>1</m:mn>
+	    </m:mrow>
+	  </m:apply>
+	</m:math>, a simple whole number ratio.</para><para id="id8471532">In explaining our observations of the Law
+      of Multiple Proportions for the carbon oxides and the
+      nitrogen oxides, we have concluded that the simple mass ratio
+      arises from the simple ratio of atoms contained in the
+      individual molecules. Thus, we have established the following
+      postulates of the <term>Atomic Molecular Theory</term>.
+	<rule type="theory" id="amt"><label>Theory</label><title>Atomic Molecular
+      Theory</title>
+	  <statement id="idp5748640"><para id="amtp"><list id="amtlist"><item>the elements are comprised of
+      identical atoms</item> <item>all atoms of a single element have
+      the same characteristic mass</item> <item>these number and
+      masses of these atoms do not change during a chemical
+      transformation</item> <item>compounds consist of identical molecules formed of atoms combined in simple whole number ratios</item></list></para></statement></rule> </para></section>
+<section id="id8471572"><title>Review and Discussion Questions</title>
+      <exercise id="id8471583"><problem id="idp4975600"><para id="ex1">Assume that matter does not
+      consist of atoms. Show by example how this assumption leads to
+      hypothetical predictions which contradict the Law of
+      Multiple Proportions. Do these hypothetical examples
+      contradict the Law of Definite
+      Proportions? Are
+      both observations required for confirmation of the atomic
+      theory?</para></problem></exercise>
+
+<exercise id="id8342841"><problem id="idp6330576"><para id="ex2">Two compounds, A and
+	    B, are formed entirely from hydrogen and carbon. Compound
+	    A is 80.0% carbon by mass, and 20.0% hydrogen, whereas
+	    Compound B is 83.3% carbon by mass and 16.7%
+	    hydrogen. Demonstrate that these two compounds obey the
+	    Law of Multiple Proportions. Explain why
+	    these results strongly indicate that the elements carbon
+	    and hydrogen are composed of
+	    atoms.</para></problem></exercise>
+
+<exercise id="id8342872"><problem id="idp5532736"><para id="ex3">In many chemical
+	    reactions, mass does not appear to be a conserved
+	    quantity. For example, when a tin can rusts, the resultant
+	    rusty tin can has a greater mass than before rusting. When
+	    a candle burns, the remaining candle has invariably less
+	    mass than before it was burned. Provide an explanation of
+	    these observations, and describe an experiment which would
+	    demonstrate that mass is actually conserved in these
+	    chemical reactions. </para></problem></exercise>
+
+<exercise id="id8342899"><problem id="idp4962368"><para id="ex4">The following
+	    question was posed on an exam:<quote display="block" id="idp2062752">An
+	      unknown non-metal element (Q) forms two gaseous
+	      fluorides of unknown molecular formula. A 3.2 g sample
+	      of Q reacts with fluorine to form 10.8 g of the unknown
+	      fluoride A. A 6.4 g sample of Q reacts with fluorine to
+	      form 29.2 g of unknown fluoride B. Using these data
+	      only, demonstrate by calculation and explanation that
+	      these unknown compounds obey the Law of Multiple
+		Proportions.</quote>A student responded with
+	    the following answer:<quote display="block" id="idp1416224">The Law of
+		Multiple Proportions states that when two
+	      elements form two or more compounds, the ratios of the
+	      masses of the elements between the two compounds are in
+	      a simple whole number ratio. So, looking at the data
+	      above, we see that the ratio of the mass of element Q in
+	      compound A to the mass of element Q in compound B is 
+	      <m:math type="inline">
+		<m:apply>
+		  <m:eq/>
+		  <m:mrow>
+		    <m:mn>3.2</m:mn>
+		    <m:mo>:</m:mo>
+		    <m:mn>6.4</m:mn>
+		  </m:mrow>
+		  <m:mrow>
+		    <m:mn>1</m:mn>
+		    <m:mo>:</m:mo>
+		    <m:mn>2</m:mn>
+		  </m:mrow>
+		</m:apply>
+	      </m:math>, which is a simple whole number ratio. This demonstrates that these compounds obey the Law of Multiple Proportions.</quote>Assess the accuracy of the students answer. In your assessment, you must determine what information is correct or incorrect, provide the correct information where needed, explain whether the reasoning is logical or not, and provide logical reasoning where needed.</para></problem></exercise></section>
+</content>
+</document>

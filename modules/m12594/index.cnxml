@@ -1,0 +1,510 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Molecular Geometry and Electron Domain Theory</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8a3e2dc3-08aa-40f2-89b5-06c993d1e9ea</md:uuid>
+</metadata>
+
+ <content>
+<section id="id7218769">
+<title>Foundation</title>
+<para id="id7218776">We begin by assuming a 
+<term>Lewis structure model</term> for chemical bonding based on
+valence shell electron pair sharing and the octet rule. We thus
+assume the nuclear structure of the atom, and we further assume the
+existence of a valence shell of electrons in each atom which
+dominates the chemical behavior of that atom. A covalent chemical
+bond is formed when the two bonded atoms share a pair of valence
+shell electrons between them. In general, atoms of Groups IV
+through VII bond so as to complete an octet of valence shell
+electrons. A number of atoms, including C, N, O, P, and S, can form
+double or triple bonds as needed to complete an octet. We know that
+double bonds are generally stronger and have shorter lengths than
+single bonds, and triple bonds are stronger and shorter than double
+bonds.</para>
+</section>
+<section id="id7218814">
+<title>Goals</title>
+<para id="id7218820">We should expect that the properties of
+molecules, and correspondingly the substances which they comprise,
+should depend on the details of the structure and bonding in these
+molecules. The relationship between bonding, structure, and
+properties is comparatively simple in 
+<term>diatomic</term> molecules, which contain two atoms only, 
+<foreign>e.g.</foreign> <m:math><m:mrow><m:mi>H</m:mi><m:mi>Cl</m:mi></m:mrow></m:math>
+or
+<m:math><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:math>.
+A 
+<term>polyatomic</term> molecule contains more than two atoms. An
+example of the complexities which arise with polyatomic molecules
+is molecular geometry: how are the atoms in the molecule arranged
+with respect to one another? In a diatomic molecule, only a single
+molecular geometry is possible since the two atoms must lie on a
+line. However, with a triatomic molecule (three atoms), there are
+two possible geometries: the atoms may lie on a line, producing a
+linear molecule, or not, producing a bent molecule. In molecules
+with more than three atoms, there are many more possible
+geometries. What geometries are actually observed? What determines
+which geometry will be observed in a particular molecule? We seek a
+model which allows us to understand the observed geometries of
+molecules and thus to predict these geometries.</para>
+<para id="id7218895">Once we have developed an understanding of the
+relationship between molecular structure and chemical bonding, we
+can attempt an understanding of the relationship of he structure
+and bonding in a polyatomic molecule to the physical and chemical
+properties we observe for those molecules.</para>
+</section>
+<section id="id7218906">
+<title>Observation 1: Geometries of molecules</title>
+<para id="id7218913">The geometry of a molecule includes a
+description of the arrangements of the atoms in the molecule. At a
+simple level, the molecular structure tells us which atoms are
+bonded to which. At a more detailed level, the geometry includes
+the lengths of all of these bonds, that is, the distances between
+the atoms which are bonded together, and the angles between pairs
+of bonds. For example, we find that in water,
+<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>,
+the two hydrogens are bonded to the oxygen and each O-H bond length
+is 95.72pm (where
+<m:math><m:apply><m:eq/><m:apply><m:times/><m:cn>1</m:cn><m:ci>pm</m:ci></m:apply><m:apply><m:times/><m:apply><m:power/><m:cn>10</m:cn><m:cn>-12</m:cn></m:apply><m:ci>m</m:ci></m:apply></m:apply></m:math>).
+Furthermore,
+<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>
+is a bent molecule, with the H-O-H angle equal to 104.5°.
+(The measurement of these geometric properties is difficult,
+involving the measurement of the frequencies at which the molecule
+rotates in the gas phase. In molecules in crystalline form, the
+geometry of the molecule is revealed by irradiating the crystal
+with x-rays and analyzing the patterns formed as the x-rays
+diffract off of the crystal.)</para>
+<para id="id7218966">Not all triatomic molecules are bent, however.
+As a common example,
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+is a linear molecule. Larger polyatomics can have a variety of
+shapes, as illustrated in <link target-id="fig1"/>.
+Ammonia,
+<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+is a pyramid-shaped molecule, with the hydrogens in an equilateral
+triangle, the nitrogen above the plane of this triangle, and a
+H-N-H angle equal to 107°. The geometry of
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>
+is that of a tetrahedron, with all H-C-H angles equal to
+109.5°. (See also <link target-id="fig2a"/>.)
+Ethane,
+<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>,
+has a geometry related to that of methane. The two carbons are
+bonded together, and each is bonded to three hydrogens. Each H-C-H
+angle is 109.5° and each H-C-C angle is
+109.5°.  By contrast, in ethene,
+<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+each H-C-H bond angle is 116.6° and each H-C-C bond angle is
+121.7°. All six atoms of ethene lie in the same plane. Thus,
+ethene and ethane have very different geometries, despite the
+similarities in their molecular formulae.</para>
+
+<figure id="fig1">
+	<title>Molecular Structures</title>
+	<media id="idm6931072" alt=""><image src="../../media/fig1-7d15.png" mime-type="image/png"/><image for="pdf" src="../../media/fig1-39fe.eps" mime-type="application/postscript"/></media>
+      </figure>
+
+<para id="id7219075">We begin our analysis of these geometries by
+noting that, in the molecules listed above which do 
+<emphasis>not</emphasis> contain double or triple bonds
+(<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>,
+<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>and
+<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>),
+the bond angles are very similar, each equal to or very close to
+the tetrahedral angle 109.5°. To account for the observed
+angle, we begin with our valence shell electron pair sharing model,
+and we note that, in the Lewis structures of these molecules, the
+central atom in each bond angle of these molecules contains four pairs
+of valence shell electrons. For methane and ethane, these four
+electron pairs are all shared with adjacent bonded atoms, whereas
+in</para>
+
+<para id="id7219170">ammonia or water, one or two (respectively) of
+the electron pairs are not shared with any other atom. These
+unshared electron pairs are called 
+<term>lone pairs</term> . Notice that, in the two molecules with no
+lone pairs, all bond angles are 
+<emphasis>exactly</emphasis> equal to the tetrahedral angle, whereas
+the bond angles are only close in the molecules with lone
+pairs</para>
+<para id="id7219198">One way to understand this result is based on
+the mutual repulsion of the negative charges on the valence shell
+electrons. Although the two electrons in each bonding pair must
+remain relatively close together in order to form the bond,
+different pairs of electrons should arrange themselves in such a
+way that the distances between the pairs are as large as possible.
+Focusing for the moment on methane, the four pairs of electrons
+must be equivalent to one another, since the four C-H bonds are
+equivalent, so we can assume that the electron pairs are all the
+same distance from the central carbon atom. How can we position
+four electron pairs at a fixed distance from the central atom but
+as far apart from one another as possible? A little reflection
+reveals that this question is equivalent to asking how to place
+four points on the surface of a sphere spread out from each other
+as far apart as possible. A bit of experimentation reveals that
+these four points must sit at the corners of a tetrahedron, an
+equilateral triangular pyramid, as may be seen in <link target-id="fig2b"/>. If the carbon atom is at the
+center of this tetrahedron and the four electron pairs at placed at
+the corners, then the hydrogen atoms also form a tetrahedron about
+the carbon. This is, as illustrated in <link target-id="fig2a"/>, the correct geometry of a methane
+molecule. The angle formed by any two corners of a tetrahedron and
+the central atom is 109.5°, exactly in agreement with the
+observed angle in methane. This model also works well in predicting
+the bond angles in ethane.</para>
+
+<figure id="fig2" orient="vertical">
+	<title>Tetrahedral Structure of Methane</title>
+	<subfigure id="fig2a">
+  	 <media id="idm5692464" alt=""><image src="../../media/fig2a-01f4.png" mime-type="image/png"/><image for="pdf" src="../../media/fig2a-6c37.eps" mime-type="application/postscript"/></media>
+	 <caption>The dotted lines illustrate that the hydrogens form a tetrahedron about the carbon atom.</caption>
+ 	</subfigure>
+	<subfigure id="fig2b">
+  	 <media id="idm131520" alt=""><image src="../../media/fig2b-f819.png" mime-type="image/png"/><image for="pdf" src="../../media/fig2b-0273.eps" mime-type="application/postscript"/></media>
+	 <caption>The same tetrahedron is formed by placing four points on a sphere as far apart from one another as possible.</caption>
+ 	</subfigure>
+      </figure>
+
+<para id="id7219261">We conclude that molecular geometry is
+determined by minimizing the mutual repulsion of the valence shell
+electron pairs. As such, this model of molecular geometry is often
+referred to as the 
+<term>valence shell electron pair repulsion (VSEPR) theory</term> .
+For reasons that will become clear, extension of this model implies
+that a better name is the 
+<term>Electron Domain (ED) Theory</term> .</para>
+<para id="id7219303">This model also accounts, at least
+approximately, for the bond angles of
+<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>
+and
+<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>.
+These molecules are clearly not tetrahedral, like
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+since neither contains the requisite five atoms to form the
+tetrahedron. However, each molecule does contain a central atom
+surrounded by four pairs of valence shell electrons. We expect from
+our Electron Domain model that those four pairs should be arrayed
+in a tetrahedron, without regard to whether they are bonding or
+lone-pair electrons. Then attaching the hydrogens (two for oxygen,
+three for nitrogen) produces a prediction of bond angles of
+109.5°, very close indeed to the observed angles of
+104.5° in
+<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>
+and 107° in
+<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>.</para>
+<para id="id7219368">Note, however, that we do not describe the
+geometries of
+<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>
+and
+<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>
+as "tetrahedral," since the 
+<emphasis>atoms</emphasis> of the molecules do not form
+tetrahedrons, even if the valence shell electron pairs do. (It is
+worth noting that these angles are not exactly equal to
+109.5°, as in methane. These deviations will be discussed
+<link target-id="obs3">later</link>.)</para>
+<para id="id7219407">We have developed the Electron Domain model to
+this point only for geometries of molecules with four pairs of
+valence shell electrons. However, there are a great variety of
+molecules in which atoms from Period 3 and beyond can have more
+than an octet of valence electrons. We consider two such molecules
+illustrated in <link target-id="fig3"/>.</para>
+
+<figure id="fig3">
+	<title>More Molecular Structures</title>
+ 	 <media id="idm5405584" alt=""><image src="../../media/fig3-6fb1.png" mime-type="image/png"/><image for="pdf" src="../../media/fig3-4519.eps" mime-type="application/postscript"/></media>
+</figure>
+
+<para id="id7219470">First,
+<m:math><m:mrow><m:mi>P</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>
+is a stable gaseous compound in which the five chlorine atoms are
+each bonded to the phosphorous atom. Experiments reveal that the
+geometry of
+<m:math><m:mrow><m:mi>P</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>
+is that of a 
+<term>trigonal bipyramid</term> : three of the chlorine atoms form
+an equilateral triangle with the P atom in the center, and the
+other two chlorine atoms are on top of and below the P atom. Thus
+there must be 10 valence shell electrons around the phosphorous
+atom. Hence, phosphorous exhibits what is called an 
+<term>expanded valence</term> in
+<m:math><m:mrow><m:mi>P</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>.
+Applying our Electron Domain model, we expect the five valence
+shell electron pairs to spread out optimally to minimize their
+repulsions. The required geometry can again be found by trying to
+place five points on the surface of a sphere with maximum distances
+amongst these points. A little experimentation reveals that this
+can be achieved by placing the five points to form a trigonal
+bipyramid. Hence, Electron Domain theory accounts for the geometry
+of
+<m:math><m:mrow><m:mi>P</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>.</para>
+<para id="id7219537">Second,
+<m:math><m:mrow><m:mi>S</m:mi><m:msub><m:mi>F</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math> is
+a fairly unreactive gaseous compound in which all six fluorine
+atoms are bonded to the central sulfur atom. Again, it is clear
+that the octet rule is violated by the sulfur atom, which must
+therefore have an expanded valence. The observed geometry of
+<m:math><m:mrow><m:mi>S</m:mi><m:msub><m:mi>F</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>,
+as shown in <link target-id="fig3"/>, is highly
+symmetric: all bond lengths are identical and all bond angles are
+90°. The F atoms form an 
+<term>octahedron</term> about the central S atom: four of the F
+atoms form a square with the S atom at the center, and the other
+two F atoms are above and below the S atom. To apply our Electron
+Domain model to understand this geometry, we must place six points,
+representing the six electron pairs about the central S atom, on
+the surface of a sphere with maximum distances between the points.
+The requisite geometry is found, in fact, to be that of an
+octahedron, in agreement with the observed geometry.</para>
+<para id="id7219596">As an example of a molecule with an atom with
+less than an octet of valence shell electrons, we consider boron
+trichloride,
+<m:math><m:mrow><m:mi>B</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>.
+The geometry of
+<m:math><m:mrow><m:mi>B</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math> is
+also given in <link target-id="fig3"/>: it is 
+<term>trigonal planar</term> , with all four atoms lying in the same
+plane, and all Cl-B-Cl bond angles equal to 120°. The three Cl
+atoms form an equilateral triangle. The Boron atom has only three
+pairs of valence shell electrons in
+<m:math><m:mrow><m:mi>B</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>.
+In applying Electron Domain theory to understand this geometry, we
+must place three points on the surface of a sphere with maximum
+distance between points. We find that the three points form an
+equilateral triangle in a plane with the center of the sphere, so
+Electron Domain is again in accord with the observed
+geometry.</para>
+<para id="id7219653">We conclude from these predictions and
+observations that the Electron Domain model is a reasonably
+accurate way to understand molecular geometries, even in molecules
+which violate the octet rule.</para>
+</section>
+<section id="obs2">
+<title>Observation 2: Molecules with Double or Triple Bonds</title>
+<para id="id7219672">In each of the molecules considered up to this
+point, the electron pairs are either in single bonds or in lone
+pairs. In current form, the Electron Domain model does 
+<emphasis>not</emphasis> account for the observed geometry of
+<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+in which each H-C-H bond angle is 116.6° and each H-C-C bond
+angle is 121.7° and all six atoms lie in the same plane.
+Each carbon atom in this molecule is surrounded by four pairs of
+electrons, all of which are involved in bonding, 
+<foreign>i.e.</foreign> there are no lone pairs. However, the
+arrangement of these electron pairs, and thus the bonded atoms,
+about each carbon is not even approximately tetrahedral. Rather,
+the H-C-H and H-C-C bond angles are much closer to 120°, the
+angle which would be expected if 
+<emphasis>three</emphasis> electron pairs were separated in the
+optimal arrangement, as just discussed for
+<m:math><m:mrow><m:mi>B</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>.</para>
+<para id="id7219756">This observed geometry can be understood by
+re-examining the Lewis structure. Recall that, although there are
+four electron pairs about each carbon atom, two of these pairs form
+a double bond between the carbon atoms. It is tempting to assume
+that these four electron pairs are forced apart to form a
+tetrahedron as in previous molecules. However, if this were this
+case, the two pairs involved in the double bond would be separated
+by an angle of 109.5° which would make it impossible for
+both pairs to be localized between the carbon atoms. To preserve
+the double bond, we must assume that the two electron pairs in the
+double bond remain in the same vicinity. Given this assumption,
+separating the three 
+<emphasis>independent</emphasis> groups of electron pairs about a
+carbon atom produces an expectation that all three pairs should lie
+in the same plane as the carbon atom, separated by 120°
+angles. This agrees very closely with the observed bond angles. We
+conclude that the our model can be extended to understanding the
+geometries of molecules with double (or triple) bonds by treating
+the multiple bond as two electron pairs confined to a single 
+<term>domain</term>. It is for this reason that we refer to the
+model as Electron Domain theory.</para>
+<para id="id7219834">Applied in this form, Electron Domain theory
+can help us understand the linear geometry of
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>.
+Again, there are four electron pairs in the valence shell of the
+carbon atom, but these are grouped into only two domains of two
+electron pairs each, corresponding to the two C=O double bonds.
+Minimizing the repulsion between these two domains forces the
+oxygen atoms to directly opposite sides of the carbon, producing a
+linear molecule. Similar reasoning using Electron Domain theory as
+applied to triple bonds correctly predicts that acetylene,
+<m:math><m:mrow><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>C</m:mi><m:mi>H</m:mi></m:mrow></m:math>,
+is a linear molecule. If the electron pairs in the triple bond are
+treated as a single domain, then each carbon atom has only two
+domains each. Forcing these domains to opposite sides from one
+another accurately predicts 180° H-C-C bond angles.</para>
+</section>
+<section id="obs3">
+<title>Observation 3: Distortions from Expected Geometries</title>
+<para id="id7219892">It is interesting to note that some molecular
+geometries
+(<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>,
+<m:math><m:mrow><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>C</m:mi><m:mi>H</m:mi></m:mrow></m:math>)
+are exactly predicted by the Electron Domain model, whereas in
+other molecules, the model predictions are only approximately
+correct. For examples, the observed angles in ammonia and water
+each differ slightly from the tetrahedral angle. Here again, there
+are four pairs of valence shell electrons about the central atoms.
+As such, it is reasonable to conclude that the bond angles are
+determined by the mutual repulsion of these electron pairs, and are
+thus expected to be 109.5°, which is close but not
+exact.</para>
+<para id="id7219946">One clue as to a possible reason for the
+discrepancy is that the bond angles in ammonia and water are both 
+<emphasis>less</emphasis> than 109.5°. Another is that both
+ammonia and water molecules have lone pair electrons, whereas there
+are no lone pairs in a methane molecule, for which the Electron
+Domain prediction is exact. Moreover, the bond angle in water, with
+two lone pairs, is less than the bond angles in ammonia, with a
+single lone pair. We can straightforwardly conclude from these
+observations that the lone pairs of electrons must produce a
+greater repulsive effect than do the bonded pairs. Thus, in
+ammonia, the three bonded pairs of electrons are forced together
+slightly compared to those in methane, due to the greater repulsive
+effect of the lone pair. Likewise, in water, the two bonded pairs
+of electrons are even further forced together by the two lone pairs
+of electrons.</para>
+<para id="id7219995">This model accounts for the comparative bond
+angles observed experimentally in these molecules. The valence
+shell electron pairs repel one another, establishing the geometry
+in which the energy of their interaction is minimized. Lone pair
+electrons apparently generate a greater repulsion, thus slightly
+reducing the angles between the bonded pairs of electrons. Although
+this model accounts for the observed geometries, why should lone
+pair electrons generate a greater repulsive effect? We must guess
+at a qualitative answer to this question, since we have no
+description at this point for where the valence shell electron
+pairs actually are or what it means to share an electron pair. We
+can assume, however, that a pair of electrons shared by two atoms
+must be located somewhere between the two nuclei, otherwise our
+concept of "sharing" is quite meaningless. Therefore, the powerful
+tendency of the two electrons in the pair to repel one another must
+be significantly offset by the localization of these electrons
+between the two nuclei which share them. By contrast, a lone pair
+of electrons need not be so localized, since there is no second
+nucleus to draw them into the same vicinity. Thus more free to move
+about the central atom, these lone pair electrons must have a more
+significant repulsive effect on the other pairs of
+electrons.</para>
+<para id="id7220044">These ideas can be extended by more closely
+examining the geometry of ethene,
+<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>
+. Recall that each H-C-H bond angle is 116.6° and each H-C-C
+bond angle is 121.7°, whereas the Electron Domain theory
+prediction is for bond angles exactly equal to 120°. We can
+understand why the H-C-H bond angle is slightly less than
+120° by assuming that the two pairs of electrons in the C=C
+double bond produce a greater repulsive effect than do either of
+the single pairs of electrons in the C-H single bonds. The result
+of this greater repulsion is a slight "pinching" of the H-C-H bond
+angle to less than 120°.</para>
+<para id="id7220107">The concept that lone pair electrons produce a
+greater repulsive effect than do bonded pairs can be used to
+understand other interesting molecular geometries. Sulfur
+tetrafluoride,
+<m:math><m:mrow><m:mi>S</m:mi><m:msub><m:mi>F</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+is a particularly interesting example, shown in <link target-id="fig4"/>.</para>
+
+<figure id="fig4">
+	<title>Molecular Structure of SF4</title>
+  	 <media id="idp603600" alt=""><image src="../../media/fig4-f757.png" mime-type="image/png"/><image for="pdf" src="../../media/fig4-152f.eps" mime-type="application/postscript"/></media>
+</figure>
+
+<para id="id7220175">Note that two of the fluorines form close to a
+straight line with the central sulfur atom, but the other two are
+approximately perpendicular to the first two and at an angle of
+101.5° to each other. Viewed sideways, this structure
+looks something like a seesaw.</para>
+<para id="id7220201">To account for this structure, we first
+prepare a Lewis structure. We find that each fluorine atom is
+singly bonded to the sulfur atom, and that there is a lone pair of
+electrons on the sulfur. Thus, with five electron pairs around the
+central atom, we expect the electrons to arrange themselves in a
+trigonal bipyramid, similar to the arrangement in
+<m:math><m:mrow><m:mi>P</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>
+in <link target-id="fig3"/>. In this case, however,
+the fluorine atoms and the lone pair could be arranged in two
+different ways with two different resultant molecular structures.
+The lone pair can either go on the axis of the trigonal
+bipyramid (<foreign>i.e.</foreign> “above” the sulfur) or on the
+equator of the bipyramid (<foreign>i.e.</foreign> “beside” the sulfur).</para>
+<para id="id7220255">The actual molecular structure in <link target-id="fig4"/> shows clearly that the lone pair
+goes on the equatorial position. This can be understood if we
+assume that the lone pair produces a greater repulsive effect than
+do the bonded pairs. With this assumption, we can deduce that the
+lone pair should be placed in the trigonal bipyramidal arrangement
+as far as possible from the bonded pairs. The equatorial position
+does a better job of this, since only two bonding pairs of
+electrons are at approximately 90° angles from the
+lone pair in this position. By contrast, a lone pair in the axial
+position is approximately 90° away from three bonding
+pairs. Therefore, our Electron Domain model assumptions are
+consistent with the observed geometry of
+<m:math><m:mrow><m:mi>S</m:mi><m:msub><m:mi>F</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>.
+Note that these assumptions also correctly predict the observed
+distortions away from the 180° and
+120° angles which would be predicted by a trigonal
+bipyramidal arrangement of the five electron pairs.</para>
+</section>
+<section id="id7220322">
+<title>Review and Discussion Questions</title>
+<exercise id="ex1"><problem id="idp1468736"><para id="id7220330">Using a styrofoam or rubber ball, prove to
+yourself that a tetrahedral arrangement provides the maximum
+separation of four points on the surface of the ball. Repeat this
+argument to find the expected arrangements for two, three, five,
+and six points on the surface of the ball.</para></problem></exercise>
+<exercise id="ex2"><problem id="idm6895200">
+<para id="id7220348">Explain why arranging points on the surface of
+a sphere can be considered equivalent to arranging electron pairs
+about a central atom.</para></problem></exercise>
+<exercise id="ex3"><problem id="idm111744">
+<para id="id7220359">The valence shell electron pairs about the
+central atom in each of the molecules
+<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>,
+<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+and
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math> are
+arranged approximately in a tetrahedron. However, only
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math> is
+considered a tetrahedral molecule. Explain why these statements are
+not inconsistent.</para></problem></exercise>
+<exercise id="ex4"><problem id="idp3387952">
+<para id="id7220402">Explain how a comparison of the geometries of
+<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>
+and
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math> leads
+to a conclusion that lone pair electrons produce a greater
+repulsive effect than do bonded pairs of electrons. Give a physical
+reason why this might be expected.</para></problem></exercise>
+<exercise id="ex5"><problem id="idm251824">
+<para id="id7220429">Explain why the octet of electrons about each
+carbon atom in ethene,
+<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+are not arranged even approximately in a tetrahedron.</para></problem></exercise>
+<exercise id="ex6"><problem id="idp7432160">
+<para id="id7220444">Assess the accuracy of the following reasoning
+and conclusions:
+<quote display="block" id="idm5789088">A trigonal bipyramid forms when there are five
+electron domains. If one ED is a lone pair, then the lone pair
+takes an equatorial position and the molecule has a seesaw
+geometry. If two EDs are lone pairs, we have to decide among the
+following options: both axial, both equatorial, or one axial and
+one equatorial. By placing both lone pairs in the axial positions,
+the lone pairs are as far apart as possible, so the trigonal planar
+structure is favored.</quote>
+</para></problem></exercise>
+<exercise id="ex7"><problem id="idp1267728">
+<para id="id7220475">Assess the accuracy of the following reasoning
+and conclusions:
+<quote display="block" id="idp4275920">The Cl-X-Cl bond angles in the <link target-id="fig5">two molecules</link> are
+identical, because the bond angle is determined by the repulsion of
+the two Cl atoms, which is identical in the two molecules.</quote>
+</para>
+<figure id="fig5">
+  	 <media id="idm5354640" alt=""><image src="../../media/fig5-7bdb.png" mime-type="image/png"/><image for="pdf" src="../../media/fig5-ff96.eps" mime-type="application/postscript"/></media>
+</figure></problem></exercise>
+</section>
+</content>
+</document>

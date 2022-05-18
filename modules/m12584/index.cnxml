@@ -1,0 +1,701 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Covalent Bonding and Electron Pair Sharing</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8c41e121-fa9f-4730-abf0-1c84ae3ac631</md:uuid>
+</metadata>
+  <content>
+    <section id="id4142163">
+      <title>Foundation</title>
+      <para id="id4142171">We begin with our understanding of the
+	relationship between chemical behavior and atomic structure. That
+	is, we assume the Periodic Law that the chemical and physical
+	properties of the elements are periodic functions of atomic number.
+	We further assume the structure of the atom as a massive,
+	positively charged nucleus, whose size is much smaller than that of
+	the atom as a whole, surrounded by a vast open space in which move
+	negatively charged electrons. These electrons can be effectively
+	partitioned into a core and a valence shell, and it is only the
+	electrons in the valence shell which are significant to the
+	chemical properties of the atom. The number of valence electrons in
+	each atom is equal to the group number of that element in the
+	Periodic Table.</para>
+    </section>
+    <section id="id4161718">
+      <title>Goals</title>
+      <para id="id4161725">The atomic molecular theory is extremely
+	useful in explaining what it means to form a compound its component
+	elements. That is, a compound consists of identical molecules, each
+	comprised of the atoms of the component elements in a simple whole
+	number ratio. However, the atomic molecular theory also opens up a
+	wide range of new questions. We would like to know what atomic
+	properties determine the number of atoms of each type which combine
+	to form stable compounds. Why are some combinations observed and
+	other combinations not observed? Some elements with very dissimilar
+	atomic masses (for example, iodine and chlorine) form very similar
+	chemical compounds, but other elements with very similar atomic
+	masses (for example, oxygen and nitrogen) form very dissimilar
+	compounds. What factors are responsible for the bonding properties
+	of the elements in a similar group? In general, we need to know
+	what forces hold atoms together in forming a molecule.</para>
+      <para id="id4161764">We have developed a detail understanding of
+	the structure of the atom. Our task now is to apply this
+	understanding to develop a similar level of detail about how atoms
+	bond together to form molecules.</para></section>
+      <section id="obs1"><title>Observation 1: Valence and the Periodic
+	Table</title>
+      <para id="id4161784">To begin our analysis of chemical bonding, we
+	define the 
+	<term>valence</term> of an atom by its tendencies to form molecules.
+	The inert gases do not tend to combine with any other atoms. We
+	thus assign their 
+	valence as 0, meaning that these atoms tend to form 0
+	bonds. Each halogen prefers to form molecules by combining with a
+	single hydrogen atom (<foreign>e.g.</foreign> <m:math><m:mrow><m:mi>H</m:mi><m:mi>F</m:mi></m:mrow></m:math>,
+	    <m:math><m:mrow><m:mi>H</m:mi><m:mi>Cl</m:mi></m:mrow></m:math>).
+		We thus assign their valence as 1, also taking hydrogen to also
+		have a valence of 1. What we mean by a valence of 1 is that these
+		atoms prefer to bind to only one other atom. The valence of oxygen,
+		sulfur, etc. is assigned as 2, since two hydrogens are required to
+		satisfy bonding needs of these atoms. Nitrogen, phosphorus, etc.
+		have a valence of 3, and carbon and silicon have a valence of 4.
+		This concept also applies to elements just following the inert
+		gases. Lithium, sodium, potassium, and rubidium bind with a single
+		halogen atom. Therefore, they also have a valence of 1.
+		Correspondingly, it is not surprising to find that, for example,
+		the combination of two potassium atoms with a single oxygen atom
+		forms a stable molecule, since oxygen's valence of 2 is be
+		satisfied by the two alkali atoms, each with valence 1. We can
+		proceed in this manner to assign a valence to each element, by
+		simply determining the number of atoms to which this
+		element's atoms prefer to bind.</para>
+      <para id="id4161876">In doing so, we discover that the periodic
+	table is a representation of the valences of the elements: elements
+	in the same group all share a common valence. The inert gases with
+	a valence of 0 sit to one side of the table. Each inert gas is
+	immediately preceded in the table by one of the halogens: fluorine
+	precedes neon, chlorine precedes argon, bromine precedes krypton,
+	and iodine precedes xenon. And each halogen has a valence of one.
+	This "one step away, valence of one" pattern can be
+	extended. The elements just prior to the halogens (oxygen, sulfur,
+	selenium, tellurium) are each two steps away from the inert gases
+	in the table, and each of these elements has a valence of two (<foreign>e.g.</foreign>
+	<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>,
+	<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub>
+	<m:mi>S</m:mi></m:mrow></m:math>). The
+	elements just preceding these (nitrogen, phosphorus, antimony,
+	arsenic) have valences of three (<foreign>e.g.</foreign>
+	<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	<m:math><m:mrow><m:mi>P</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>),
+	and the elements before that (carbon and silicon most notably) have
+	valences of four
+	(<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+	<m:math><m:mrow><m:mi>Si</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>).
+	The two groups of elements immediately after the inert gases, the
+	alkali metals and the alkaline earths, have valences of one and
+	two, respectively. Hence, for many elements in the periodic table,
+	the valence of its atoms can be predicted from the number of steps
+	the element is away from the nearest inert gas in the table. This
+	systemization is quite remarkable and is very useful for
+	remembering what molecules may be easily formed by a particular
+	element.</para>
+      <para id="id4161976">Next we discover that there is a pattern to
+	the valences: for elements in groups 4 through 8 (<foreign>e.g.</foreign> carbon through neon), the valence of each
+	atom 
+	<emphasis>plus</emphasis> the number of electrons in the valence
+	shell in that atom always equals 
+	<emphasis>eight</emphasis>. For examples, carbon has a valence of 4
+	and has 4 valence electrons, nitrogen has a valence of 3 and has 5
+	valence electrons, and oxygen has a valence of 2 and has 6 valence
+	electrons. Hydrogen is an important special case with a single
+	valence electron and a valence of 1. Interestingly, for each of
+	these atoms, the number of bonds the atom forms is equal to the
+	number of vacancies in its valence shell.</para>
+      <para id="id4162020">To account for this pattern, we develop a
+	model assuming that each atom attempts to bond to other atoms so as
+	to completely fill its valence shell with electrons. For elements
+	in groups 4 through 8, this means that each atom attempts to
+	complete an "octet" of valence shell electrons. (Why
+	atoms should behave this way is a question unanswered by this
+	model.) Consider, for example, the combination of hydrogen and
+	chlorine to form hydrogen chloride, <m:math><m:mrow><m:mi>H</m:mi><m:mi>Cl</m:mi></m:mrow></m:math>. The chlorine atom has
+	seven valence electrons and seeks to add a single electron to
+	complete an octet. Hence, chlorine has a valence of 1. Either
+	hydrogen or chlorine could satisfy its valence by
+	"taking" an electron from the other atom, but this
+	would leave the second atom now needing two electrons to complete
+	its valence shell. The only way for both atoms to complete their
+	valence shells simultaneously is to 
+	<emphasis>share</emphasis> two electrons. Each atom donates a single
+	electron to the electron pair which is shared. It is this sharing
+	of electrons that we refer to as a chemical bond, or more
+	specifically, as a 
+	<term>covalent bond</term>, so named because the bond acts to
+	satisfy the valence of both atoms. The two atoms are thus held
+	together by the need to share the electron pair.</para></section>
+      <section id="id4162087"><title>Observation 2: Compounds of Carbon and
+	Hydrogen</title>
+      <para id="id4162093">Many of the most important chemical fuels are
+	compounds composed entirely of carbon and hydrogen, 
+	<foreign>i.e.</foreign> hydrocarbons. The smallest of these is
+	methane
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+	a primary component of household natural gas. Other simple common
+	fuels include ethane
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>,
+	propane
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>3</m:mn></m:msub>
+	<m:msub><m:mi>H</m:mi><m:mn>8</m:mn></m:msub></m:mrow></m:math>,
+	butane
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>4</m:mn></m:msub>
+	<m:msub><m:mi>H</m:mi><m:mn>10</m:mn></m:msub></m:mrow></m:math>,
+	pentane
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>5</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>12</m:mn></m:msub></m:mrow></m:math>,
+	hexane
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>14</m:mn></m:msub></m:mrow></m:math>,
+	heptane
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>7</m:mn></m:msub>
+	<m:msub><m:mi>H</m:mi><m:mn>16</m:mn></m:msub></m:mrow></m:math>,
+	and octane
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>8</m:mn></m:msub>
+	<m:msub><m:mi>H</m:mi><m:mn>18</m:mn></m:msub></m:mrow></m:math>.
+	It is interesting to note that there is a consistency in these
+	molecular formulae: in each case, the number of hydrogen atoms is
+	two more than twice the number of carbon atoms, so that each
+	compound has a molecular formula like
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mi>n</m:mi></m:msub><m:msub><m:mi>H</m:mi><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:math>.
+	This suggests that there are strong similarities in the valences of
+	the atoms involved which should be understandable in terms of our
+	valence shell electron pair sharing model. In each molecule, the
+	carbon atoms must be directly bonded together, since they cannot be
+	joined together with a hydrogen atom. In the easiest example of
+	ethane, the two carbon atoms are bonded together, and each carbon
+	atom is in turn bonded to three hydrogen atoms. Thus, in this case,
+	it is relatively apparent that the valence of each carbon atom is
+	4, just as in methane, since each is bonded to four other atoms.
+	Therefore, by sharing an electron pair with each of the four atoms
+	to which it is bonded, each carbon atom has a valence shell of
+	eight electrons.</para>
+      <para id="id4132990">In most other cases, it is not so trivial to
+	determine which atoms are bonded to which, as there may be multiple
+	possibilities which satisfy all atomic valences. Nor is it trivial,
+	as the number of atoms and electrons increases, to determine
+	whether each atom has an octet of electrons in its valence shell.
+	We need a system of electron accounting which permits us to see
+	these features more clearly. To this end, we adopt a standard
+	notation for each atom which displays the number of valence
+	electrons in the unbonded atom explicitly. In this notation, carbon
+	and hydrogen look like <link target-id="fig1"/>, representing the single valence electron in
+	hydrogen and the four valence electrons in carbon.</para>
+	<figure id="fig1"> <media id="idp1036752" alt=""><image src="../../media/fig1-fd08.png" mime-type="image/png"/><image for="pdf" src="../../media/fig1-9b9a.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4133083">Using this notation, it is now relatively easy
+	to represent the shared electron pairs and the carbon atom valence
+	shell octets in methane and ethane. Linking bonded atoms together
+	and pairing the valence shell electrons from each gives <link target-id="fig2"/>.</para>
+      <figure id="fig2"> <media id="idm2018976" alt=""><image src="../../media/fig2-53f4.png" mime-type="image/png"/><image for="pdf" src="../../media/fig2-188f.eps" mime-type="application/postscript"/></media></figure>
+    
+      <para id="id4133191">Recall that each shared pair of electrons
+	represents a chemical bond. These are examples of what are called 
+	<term>Lewis structures</term>, after G.N. Lewis who first invented
+	this notation. These structures reveal, at a glance, which atoms
+	  are bonded to which, <foreign>i.e.</foreign> the structural formula of the molecule. We
+	  can also easily count the number of valence shell electrons around
+	each atom in the bonded molecule. Consistent with our model of the
+	octet rule, each carbon atom has eight valence electrons and each
+	hydrogen has two in the molecule.</para>
+      <para id="id4133229">In a larger hydrocarbon, the structural
+	formula of the molecule is generally not predictable from the
+	number of carbon atoms and the number of hydrogen atoms, so the
+	molecular structure must be given to deduce the Lewis structure and
+	thus the arrangement of the electrons in the molecule. However,
+	once given this information, it is straightforward to create a
+	Lewis structure for molecules with the general molecular formula
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mi>n</m:mi></m:msub><m:msub><m:mi>H</m:mi><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:math>
+	such as propane, butane, etc. For example, the Lewis structure for
+	"normal" butane (with all carbons linked one after
+	another) is found <link target-id="fig3">here</link>.</para>
+      <figure id="fig3"> <media id="idm8285728" alt=""><image src="../../media/fig3-8caa.png" mime-type="image/png"/><image for="pdf" src="../../media/fig3-a9e8.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4133326">It is important to note that there exist no
+	hydrocarbons where the number of hydrogens exceeds two more than
+	twice the number of carbons. For example,</para>
+      <para id="id4133336">
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>
+	    does not exist, nor does
+	    <m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>8</m:mn></m:msub></m:mrow></m:math>.
+		We correspondingly find that all attempts to draw Lewis structures
+		which are consistent with the octet rule will fail for these
+		molecules. Similarly,
+		<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>
+		      and
+		      <m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub>
+			  <m:msub><m:mi>H</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>
+			  are observed to be so extremely reactive that it is impossible to
+	  prepare stable quantities of either compound. Again we find that it
+	  is not possible to draw Lewis structures for these molecules which
+	  obey the octet rule.</para>
+      <para id="id4133375">We conclude from these examples that, when it
+	is possible to draw a Lewis structure in which each carbon has a
+	complete octet of electrons in its valence shell, the corresponding
+	molecule will be stable and the hydrocarbon compound will exist
+	under ordinary conditions. After working a few examples, it is
+	apparent that this always holds for compounds with molecular
+	formula
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mi>n</m:mi></m:msub><m:msub><m:mi>H</m:mi><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:math>.</para>
+      <para id="id4133388">On the other hand, there are many stable
+	hydrocarbon compounds with molecular formulae which do not fit the
+	form
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mi>n</m:mi></m:msub><m:msub><m:mi>H</m:mi><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:math>,
+	particularly where the number of hydrogens is less than
+	<m:math><m:apply><m:plus/><m:apply><m:times/><m:cn>2</m:cn><m:ci>n</m:ci></m:apply><m:cn>2</m:cn></m:apply></m:math>.
+	In these compounds, the valences of the carbon atoms are not quite
+	so obviously satisfied by electron pair sharing. For example, in
+	ethene
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub>
+	<m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>
+	  and acetylene
+	  <m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+	      there are not enough hydrogen atoms to permit each carbon atom to
+	      be bonded to four atoms each. In each molecule, the two carbon
+	      atoms must be bonded to one another. By simply arranging the
+	      electrons so that the carbon atoms share a single pair of
+	      electrons, we wind up with rather unsatisfying Lewis structures for
+	      ethene and acetylene, shown <link target-id="fig4">here</link>.</para>
+      <figure id="fig4"> <media id="idm7626944" alt=""><image src="../../media/fig4-5ff7.png" mime-type="image/png"/><image for="pdf" src="../../media/fig4-464a.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4150269">Note that, in these structures, neither carbon
+	atom has a complete octet of valence shell electrons. Moreover,
+	these structures indicate that the carbon-carbon bonds in ethane,
+	ethene, and acetylene should be very similar, since in each case a
+	single pair of electrons is shared by the two carbons. However,
+	these bonds are observed to be chemically and physically very
+	different. First, we can compare the energy required to break each
+	bond (the <term>bond energy</term> or <term>bond strength</term>). We find that the carbon-carbon bond
+	energy is 347 kJ in
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>,
+	    589 kJ in
+	    <m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+		and 962 kJ in
+		<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>.
+		    Second, it is possible to observe the distance between the two
+		    carbon atoms, which is referred to as the 
+		    <term>bond length</term>. It is found that carbon-carbon bond
+		    length is 154 pm in
+		    <m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>,
+			134 pm in
+			<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>,
+			    and 120 pm in
+			    <m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>.
+				(<m:math><m:apply><m:eq/><m:apply><m:times/><m:cn>1</m:cn><m:ci>picometer</m:ci></m:apply><m:apply><m:times/><m:cn>1</m:cn><m:ci>pm</m:ci></m:apply>
+	<m:apply><m:times/><m:apply><m:power/><m:cn>10</m:cn><m:cn>-12</m:cn></m:apply><m:ci>m</m:ci></m:apply></m:apply></m:math>).
+	These observations reveal clearly that the bonding between the
+	carbon atoms in these three molecules must be very
+	different.</para>
+      <para id="id4150355">Note that the bond in ethene is about one and
+	a half times as strong as the bond in ethane; this suggests that
+	the two unpaired and unshared electrons in the ethene structure
+	above are also paired and shared as a second bond between the two
+	carbon atoms. Similarly, since the bond in acetylene is about two
+	and a half times stronger than the bond in ethane, we can imagine
+	that this results from the sharing of three pairs of electrons
+	between the two carbon atoms. These assumptions produce the Lewis
+	structures <link target-id="fig5">here</link>.</para>
+	<figure id="fig5"><media id="idm7876240" alt=""><image src="../../media/fig5-328d.png" mime-type="image/png"/><image for="pdf" src="../../media/fig5-d1da.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4150431">These structures appear sensible from two
+	regards. First, the trend in carbon-carbon bond strengths can be
+	understood as arising from the increasing number of shared pairs of
+	electrons. Second, each carbon atom has a complete octet of
+	electrons. We refer to the two pairs of shared electrons in ethene
+	as a 
+	<term>double bond</term> and the three shared pairs in acetylene as
+	a 
+	<term>triple bond</term>.</para>
+      <para id="id4150463">We thus extend our model of valence shell
+	electron pair sharing to conclude that carbon atoms can bond by
+	sharing one, two, or three pairs of electrons as needed to complete
+	an octet of electrons, and that the strength of the bond is greater
+	when more pairs of electrons are shared. Moreover, the data above
+	tell us that the carbon-carbon bond in acetylene is shorter than
+	that in ethene, which is shorter than that in ethane. We conclude
+	that triple bonds are shorter than double bonds which are shorter
+	than single bonds.</para>
+    </section>
+    <section id="id4150484">
+      <title>Observation 3: Compounds of Nitrogen, Oxygen, and the
+	Halogens</title>
+      <para id="id4150493">Many compounds composed primarily of carbon
+	and hydrogen also contain some oxygen or nitrogen, or one or more
+	of the halogens. We thus seek to extend our understanding of
+	bonding and stability by developing Lewis structures involving
+	these atoms. Recall that a nitrogen atom has a valence of 3 and has
+	five valence electrons. In our notation, we could draw a structure
+	in which each of the five electrons appears separately in a ring,
+	similar to what we drew for C. However, this would imply that a
+	nitrogen atom would generally form five bonds to pair its five
+	valence electrons. Since the valence is actually 3, our notation
+	should reflect this. One possibility looks like <link target-id="fig6">this</link>.</para>
+      <figure id="fig6"><media id="idp2258688" alt=""><image src="../../media/fig6.png" mime-type="image/png"/><image for="pdf" src="../../media/fig6.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4150583">Note that this structure leaves three of the
+	valence electrons "unpaired" and thus ready to join in
+	a shared electron pair. The remaining two valence electrons are
+	"paired," and this notation implies that they therefore
+	are not generally available for sharing in a covalent bond. This
+	notation is consistent with the available data, 
+	<foreign>i.e.</foreign> five valence electrons and a valence of 3.
+	Pairing the two non-bonding electrons seems reasonable in analogy
+	to the fact that electrons are paired in forming covalent
+	bonds.</para>
+      <para id="id4155700">Analogous structures can be drawn for oxygen,
+	as well as for fluorine and the other halogens, as shown <link target-id="fig7">here</link>.</para>
+      <figure id="fig7"><media id="idp4674608" alt=""><image src="../../media/fig7.png" mime-type="image/png"/><image for="pdf" src="../../media/fig7.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4155768">With this notation in hand, we can now analyze
+	structures for molecules including nitrogen, oxygen, and the
+	halogens. The hydrides are the easiest, shown <link target-id="fig8">here</link>.</para>
+      <figure id="fig8"><media id="idm707056" alt=""><image src="../../media/fig8.png" mime-type="image/png"/><image for="pdf" src="../../media/fig8.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4155837">Note that the octet rule is clearly obeyed for
+	oxygen, nitrogen, and the halogens.</para>
+      <para id="id4155843">At this point, it becomes very helpful to
+	adopt one new convention: a pair of bonded electrons will now be
+	more easily represented in our Lewis structures by a straight line,
+	rather than two dots. Double bonds and triple bonds are represented
+	by double and triple straight lines between atoms. We will continue
+	to show non-bonded electron pairs explicitly.</para>
+      <para id="id4155867">As before, when analyzing Lewis structures for
+	larger molecules, we must already know which atoms are bonded to
+	which. For example, two very different compounds, ethanol and
+	dimethyl ether, both have molecular formula
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub>
+	<m:msub><m:mi>H</m:mi><m:mn>6</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>.
+	  In ethanol, the two carbon atoms are bonded together and the oxygen
+	  atom is attached to one of the two carbons; the hydrogens are
+	  arranged to complete the valences of the carbons and the oxygen
+	  shown <link target-id="fig9">here</link>.</para>
+      <figure id="fig9"><media id="idm7774384" alt=""><image src="../../media/fig9.png" mime-type="image/png"/><image for="pdf" src="../../media/fig9.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4155969">This Lewis structure reveals not only that
+	each carbon and oxygen atom has a completed octet of valence shell
+	electrons but also that, in the stable molecule, there are four
+	non-bonded electrons on the oxygen atom. Ethanol is an example of
+	an 
+	<term>alcohol</term>. Alcohols can be easily recognized in Lewis
+	structures by the C-O-H group. The Lewis structures of all alcohols
+	obey the octet rule.</para>
+      <para id="id4155999">In dimethyl ether, the two carbons are each
+	bonded to the oxygen, in the middle, shown <link target-id="fig10">here</link>.</para>
+      <figure id="fig10"><media id="idp1072128" alt=""><image src="../../media/fig10.png" mime-type="image/png"/><image for="pdf" src="../../media/fig10.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4156085">
+	<term>Ethers</term> can be recognized in Lewis structures by the
+	C-O-C arrangement. Note that, in both ethanol and dimethyl ether,
+	the octet rule is obeyed for all carbon and oxygen atoms.
+	Therefore, it is not usually possible to predict the structural
+	formula of a molecule from Lewis structures. We must know the
+	molecular structure prior to determining the Lewis
+	structure.</para>
+      <para id="id4156109">Ethanol and dimethyl ether are examples of 
+	<term>isomers</term>, molecules with the same molecular formula but
+	different structural formulae. In general, isomers have rather
+	different chemical and physical properties arising from their
+	differences in molecular structures.</para>
+      <para id="id4156127">A group of compounds called 
+	<term>amines</term> contain hydrogen, carbon, and nitrogen. The
+	simplest amine is methyl amine, whose Lewis structure is <link target-id="fig11">here</link>.</para>
+      <figure id="fig11"><media id="idm1046336" alt=""><image src="../../media/fig11.png" mime-type="image/png"/><image for="pdf" src="../../media/fig11.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4135716">"Halogenated" hydrocarbons have
+	been used extensively as refrigerants in air conditioning systems
+	and refrigerators. These are the notorious
+	"chlorofluorocarbons" or "CFCs" which have
+	been implicated in the destruction of stratospheric ozone. Two of
+	the more important CFCs include Freon 11,
+	<m:math><m:mrow><m:mi>C</m:mi><m:mi>F</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	and Freon 114,
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub>
+	<m:msub><m:mi>F</m:mi><m:mn>4</m:mn></m:msub><m:msub><m:mi>Cl</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>,
+	for which we can easily construct appropriate Lewis structures,
+	shown <link target-id="fig12">here</link>.</para>
+      <figure id="fig12"><media id="idm1256016" alt=""><image src="../../media/fig12.png" mime-type="image/png"/><image for="pdf" src="../../media/fig12.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4135837">Finally, Lewis structures account for the
+	stability of the diatomic form of the elemental
+	halogens, <m:math><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>,
+	    <m:math><m:msub><m:mi>Cl</m:mi><m:mn>2</m:mn></m:msub></m:math>,
+		<m:math><m:msub><m:mi>Br</m:mi><m:mn>2</m:mn></m:msub></m:math>,
+		    and
+		    <m:math><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:math>.
+			The single example of
+			<m:math><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>
+			    is sufficient, shown <link target-id="fig13">here</link>.</para>
+      <figure id="fig13"><media id="idm8217344" alt=""><image src="../../media/fig13.png" mime-type="image/png"/><image for="pdf" src="../../media/fig13.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4135932">We can conclude from these examples that
+	molecules containing oxygen, nitrogen, and the halogens are
+	expected to be stable when these atoms all have octets of electrons
+	in their valence shells. The Lewis structure of each molecule
+	reveals this character explicitly.</para>
+      <para id="id4135944">On the other hand, there are many examples of
+	common molecules with apparently unusual valences, including:
+	carbon dioxide
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>,
+	in which the carbon is bonded to only two atoms and each oxygen is
+	only bonded to one; formaldehyde
+	<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>C</m:mi><m:mi>O</m:mi></m:mrow></m:math>;
+	and hydrogen cyanide
+	<m:math><m:mrow><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>N</m:mi></m:mrow></m:math>.
+	Perhaps most conspicuously, we have yet to understand the bonding
+	in two very important elemental diatomic molecules,
+	<m:math><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:math>
+	    and
+	    <m:math><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub></m:math>,
+		each of which has fewer atoms than the valence of either
+		atom.</para>
+      <para id="id4135972">We first analyze
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>,
+	noting that the bond strength of one of the
+	<m:math><m:mrow><m:mi>C</m:mi><m:mi>O</m:mi></m:mrow></m:math>
+	bonds in carbon dioxide is 532 kJ, which is significantly greater
+	than the bond strength of the
+	<m:math><m:mrow><m:mi>C</m:mi><m:mi>O</m:mi></m:mrow></m:math>
+	bond in ethanol, 358 kJ. By analogy to the comparison of bonds
+	strengths in ethane to ethene, we can imagine that this difference
+	in bond strengths results from double bonding in
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>.
+	Indeed, a Lewis structure of
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+	in which only single electron pairs are shared (<link target-id="fig14"/>) does not obey the octet rule, but one in which
+	we pair and share the extra electrons reveals that double bonding
+	permits the octet rule to be obeyed (<link target-id="fig15"/>).</para>
+      <figure id="fig14"><media id="idp2419888" alt=""><image src="../../media/fig14.png" mime-type="image/png"/><image for="pdf" src="../../media/fig14.eps" mime-type="application/postscript"/></media></figure>
+      <figure id="fig15"><media id="idp5365200" alt=""><image src="../../media/fig15.png" mime-type="image/png"/><image for="pdf" src="../../media/fig15.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4136146">A comparison of bond lengths is consistent
+	with our reasoning: the single
+	<m:math><m:mrow><m:mi>C</m:mi><m:mi>O</m:mi></m:mrow></m:math>
+	bond in ethanol is 148 pm, whereas the double bond in
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+	is 116.</para>
+      <para id="id4136152">Knowing that oxygen atoms can double-bond, we
+	can easily account for the structure of formaldehyde. The strength
+	of the
+	<m:math><m:mrow><m:mi>C</m:mi><m:mi>O</m:mi></m:mrow></m:math>
+	bond in
+	<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub>
+	<m:mi>C</m:mi><m:mi>O</m:mi></m:mrow></m:math>
+	is comparable to that in
+	<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>,
+	consistent with the Lewis structure <link target-id="fig16">here</link>.</para>
+      <figure id="fig16"><media id="idp5257408" alt=""><image src="../../media/fig16.png" mime-type="image/png"/><image for="pdf" src="../../media/fig16.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4135262">What about nitrogen atoms? We can compare the
+	strength of the <m:math><m:mrow>
+	<m:mi>C</m:mi><m:mi>N</m:mi></m:mrow></m:math>
+	bond in
+	<m:math><m:mrow><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>N</m:mi></m:mrow></m:math>,
+	880 kJ, to that in methyl amine, 290 kJ. This dramatic
+	disparity again suggests the possibility of multiple bonding, and
+	an appropriate Lewis structure for
+	<m:math><m:mrow><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>N</m:mi></m:mrow></m:math>
+	is shown <link target-id="fig17">here</link>.</para>
+      <figure id="fig17"><media id="idp4202896" alt=""><image src="../../media/fig17.png" mime-type="image/png"/><image for="pdf" src="../../media/fig17.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4135352">We can conclude that oxygen and nitrogen
+	atoms, like carbon atoms, are capable of multiple bonding.
+	Furthermore, our observations of oxygen and nitrogen reinforce our
+	earlier deduction that multiple bonds are stronger than single
+	bonds, and their bond lengths are shorter.</para>
+      <para id="id4135364">As our final examples in this section, we
+	consider molecules in which oxygen atoms are bonded to oxygen
+	atoms. Oxygen-oxygen bonds appear primarily in two types of
+	molecules. The first is simply the oxygen diatomic molecule,
+	<m:math><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:math>,
+	and the second are the peroxides, typified by hydrogen peroxide,
+	<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>.
+	In a comparison of bond energies, we find that the strength of the
+	OO bond in
+	<m:math><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:math>
+	is 499 kJ whereas the strength of the OO bond in
+	<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+	is 142 kJ. This is easily understood in a comparison of the Lewis
+	structures of these molecules, showing that the peroxide bond is a
+	single bond, whereas the
+	<m:math><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:math>
+	bond is a double bond, shown <link target-id="fig18">here</link>.</para>
+      <figure id="fig18"><media id="idp5234400" alt=""><image src="../../media/fig18.png" mime-type="image/png"/><image for="pdf" src="../../media/fig18.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4135467">We conclude that an oxygen atom can satisfy
+	its valence of 2 by forming two single bonds or by forming one
+	double bond. In both cases, we can understand the stability of the
+	resulting molecules by in terms of an octet of valence
+	electrons.</para>
+    </section>
+    <section id="id4135480">
+      <title>Interpretation of Lewis Structures</title>
+      <para id="id4135488">Before further developing our model of
+	chemical bonding based on Lewis structures, we pause to consider
+	the interpretation and importance of these structures. It is worth
+	recalling that we have developed our model based on observations of
+	the numbers of bonds formed by individual atoms and the number of
+	valence electrons in each atom. In general, these structures are
+	useful for predicting whether a molecule is expected to be stable
+	under normal conditions. If we cannot draw a Lewis structure in
+	which each carbon, oxygen, nitrogen, or halogen has an octet of
+	valence electrons, then the corresponding molecule probably is not
+	stable. Consideration of bond strengths and bond lengths enhances
+	the model by revealing the presence of double and triple bonds in
+	the Lewis structures of some molecules.</para>
+      <para id="id4135518">At this point, however, we have observed no
+	information regarding the geometries of molecules. For example, we
+	have not considered the angles measured between bonds in molecules.
+	Consequently, the Lewis structure model of chemical bonding does
+	not at this level predict or interpret these bond angles. (This
+	will be considered <link document="m12594">here</link>.) Therefore, although the Lewis
+	structure of methane is drawn as shown <link target-id="fig19">here</link>.</para>
+      <figure id="fig19"><media id="idm151072" alt=""><image src="../../media/fig19.png" mime-type="image/png"/><image for="pdf" src="../../media/fig19.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4135613">This does 
+	<emphasis>not</emphasis> imply that methane is a flat molecule, or
+	that the angles between
+	<m:math><m:mrow><m:mi>C</m:mi><m:mi>H</m:mi></m:mrow></m:math>
+	    bonds in methane is 90°. Rather, the structure simply reveals
+	    that the carbon atom has a complete octet of valence electrons in a
+	    methane molecule, that all bonds are single bonds, and that there
+	    are no non-bonding electrons. Similarly, one can write the Lewis
+	    structure for a water molecule in two apparently different ways,
+	    shown <link target-id="fig20">here</link>.</para>
+      <figure id="fig20"><media id="idm7673232" alt=""><image src="../../media/fig20.png" mime-type="image/png"/><image for="pdf" src="../../media/fig20.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4147136">However, it is very important to realize that
+	these two structures are 
+	<emphasis>identical</emphasis> in the Lewis model, because both show
+	that the oxygen atom has a complete octet of valence electrons,
+	forms two single bonds with hydrogen atoms, and has two pairs of
+	unshared electrons in its valence shell. In the same way, the two
+	structures for Freon 114 shown <link target-id="fig21">here</link> are also 
+	<emphasis>identical</emphasis>.</para>
+      <figure id="fig21"><media id="idp1708288" alt=""><image src="../../media/fig21.png" mime-type="image/png"/><image for="pdf" src="../../media/fig21.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4147228">These two drawings do not represent different
+	structures or arrangements of the atoms in the bonds.</para>
+      <para id="id4147235">Finally, we must keep in mind that we have
+	drawn Lewis structures strictly as a convenient tool for our
+	understanding of chemical bonding and molecular stability. It is
+	based on commonly observed trends in valence, bonding, and bond
+	strengths. These structures must not be mistaken as observations
+	themselves, however. As we encounter additional experimental
+	observations, we must be prepared to adapt our Lewis structure
+	model to fit these observations, but we must never adapt our
+	observations to fit the Lewis model.</para>
+    </section>
+    <section id="id4147258">
+      <title>Extensions of the Lewis Structure Model</title>
+      <para id="id4147267">With these thoughts in mind, we turn to a set
+	of molecules which challenge the limits of the Lewis model in
+	describing molecular structures. First, we note that there are a
+	variety of molecules for which atoms clearly must bond in such a
+	way as to have more than eight valence electrons. A conspicuous
+	example is
+	<m:math><m:mrow><m:mi>S</m:mi><m:msub><m:mi>F</m:mi><m:mn>6</m:mn></m:msub></m:mrow></m:math>,
+	where the sulfur atom is bonded to six F atoms. As such, the S atom
+	must have 12 valence shell electrons to form 6 covalent bonds.
+	Similarly, the phosphorous atom in
+	<m:math><m:mrow><m:mi>P</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>
+	has 10 valence electrons in 5 covalent bonds, the Cl atom in
+	<m:math><m:mrow><m:mi>Cl</m:mi><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>
+	has 10 valence electrons in 3 covalent bonds and two lone pairs. We
+	also observe the interesting compounds of the noble gas atoms, 
+	<foreign>e.g.</foreign> <m:math><m:mrow><m:mi>Xe</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	where noble gas atom begins with eight valence electrons even
+	before forming any bonds. In each of these cases, we note that the
+	valence of the atoms S, P, Cl, and Xe are normally 2, 3, 1, and 0,
+	yet more bonds than this are formed. In such cases, it is not
+	possible to draw Lewis structures in which S, P, Cl, and Xe obey
+	the octet rule. We refer to these molecules as "expanded
+	valence" molecules, meaning that the valence of the central
+	atom has expanded beyond the expected octet.</para>
+      <para id="id4147334">There are also a variety of molecules for
+	which there are too few electrons to provide an octet for every
+	atom. Most notably, Boron and Aluminum, from Group III, display
+	bonding behavior somewhat different than we have seen and thus less
+	predictable from the model we have developed so far. These atoms
+	have three valence shell electrons, so we might predict a valence
+	of 5 on the basis of the octet rule. However, compounds in which
+	boron or aluminum atoms form five bonds are never observed, so we
+	must conclude that simple predictions based on the octet rule are
+	not reliable for Group III.</para>
+      <para id="id4147356">Consider first boron trifluoride,
+	<m:math><m:mrow><m:mi>B</m:mi><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>.
+	The bonding <link target-id="fig22">here</link> is relatively
+	simple to model with a Lewis structure if we allow each valence
+	shell electron in the boron atom to be shared in a covalent bond
+	with each fluorine atom.</para>
+      <figure id="fig22"><media id="idm8191264" alt=""><image src="../../media/fig22.png" mime-type="image/png"/><image for="pdf" src="../../media/fig22.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4147439">Note that, in this structure, the boron atom
+	has only six valence shell electrons, but the octet rule is obeyed
+	by the fluorine atoms.</para>
+      <para id="id4147446">We might conclude from this one example that
+	boron atoms obey a sextet rule. However, boron will form a stable
+	ion with hydrogen,
+	<m:math><m:mrow><m:mi>B</m:mi><m:msubsup><m:mi>H</m:mi><m:mn>4</m:mn><m:mo>-</m:mo></m:msubsup></m:mrow></m:math>,
+	in which the boron atom does have a complete octet. In addition,
+	<m:math><m:mrow><m:mi>B</m:mi><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>
+	will react with ammonia <m:math><m:mrow>
+	<m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>
+	for form a stable compound,
+	<m:math><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn>
+      </m:msub><m:mi>B</m:mi><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	for which a Lewis structure can be drawn in which boron has a
+	complete octet, shown <link target-id="fig23">here</link>.</para>
+      <figure id="fig23"><media id="idp1147952" alt=""><image src="../../media/fig23.png" mime-type="image/png"/><image for="pdf" src="../../media/fig23.eps" mime-type="application/postscript"/></media></figure>
+      <para id="id4147551">Compounds of aluminum follow similar trends.
+	Aluminum trichloride,
+	<m:math><m:mrow><m:mi>Al</m:mi><m:msub><m:mi>Cl</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	aluminum hydride,
+	<m:math><m:mrow><m:mi>Al</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	and aluminum hydroxide,
+	<m:math><m:mrow><m:mi>Al</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>O</m:mi><m:mi>H</m:mi><m:mo>)</m:mo></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	all indicate a valence of 3 for aluminum, with six valence
+	electrons in the bonded molecule. However, the stability of
+	aluminum hydride ions,
+	<m:math><m:mrow><m:mi>Al</m:mi><m:msubsup><m:mi>H</m:mi><m:mn>4</m:mn><m:mo>-</m:mo></m:msubsup></m:mrow></m:math>,
+	indicates that Al can also support an octet of valence shell
+	electrons as well.</para>
+      <para id="id4147591">We conclude that, although the octet rule can
+	still be of some utility in understanding the chemistry of Boron
+	and Aluminum, the compounds of these elements are less predictable
+	from the octet rule. This should not be disconcerting, however. The
+	octet rule was developed in <link target-id="obs1"/> on the basis of the observation
+	that, for elements in Groups IV through VIII, the number of valence
+	electrons plus the most common valence is equal to eight. Elements
+	in Groups I, II, and III do not follow this observation most
+	commonly.</para>
+    </section>
+    <section id="id4153486">
+      <title>Resonance Structures</title>
+      <para id="id4153494">Another interesting challenge for the Lewis
+	model we have developed is the set of molecules for which it is
+	possible to draw more than one structure in agreement with the
+	octet rule. A notable example is the nitric acid molecule,
+	<m:math><m:mrow><m:mi>H</m:mi><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	where all three oxygens are bonded to the nitrogen. Two structures
+	can be drawn for nitric acid with nitrogen and all three oxygens
+	obeying the octet rule.</para>
+      <para id="id4153512">In each structure, of the oxygens not bonded to
+	hydrogen, one shares a single bond with nitrogen while the other
+	shares a double bond with nitrogen. These two structures are not
+	identical, unlike the two freon structures in <link target-id="fig12"/>, because the atoms are bonded
+	differently in the two structures.</para>
+    </section>
+    <section id="id4153531">
+      <title>Review and Discussion Questions</title>
+      <exercise id="ex1"><problem id="idp487520"><para id="id4153539">Compounds with formulae of the form
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mi>n</m:mi></m:msub><m:msub><m:mi>H</m:mi><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:math>
+	are often referred to as "saturated" hydrocarbons.
+	Using Lewis structures, explain how and in what sense these
+	molecules are "saturated."</para></problem></exercise>
+       <exercise id="ex2"><problem id="idm1642656"><para id="id4153560">Molecules with formulae of the form
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mi>n</m:mi></m:msub><m:msub><m:mi>H</m:mi><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:msub></m:mrow></m:math>
+	(<foreign>e.g.</foreign>
+<m:math><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math>,
+	<m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>5</m:mn></m:msub></m:mrow></m:math>)
+	are called "radicals" and are extremely reactive. Using
+	Lewis structures, explain the reactivity of these molecules.</para></problem></exercise>
+       <exercise id="ex3"><problem id="idp880464"><para id="id4153592">State and explain the experimental evidence
+	and reasoning which shows that multiple bonds are stronger and
+	shorter than single bonds.</para></problem></exercise>
+       <exercise id="ex4"><problem id="idp467552"><para id="id4153605">Compare
+	<m:math><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub></m:math>
+	to
+	<m:math><m:mrow><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>.
+	Predict which bond is stronger and explain why.</para></problem></exercise>
+       <exercise id="ex5"><problem id="idm2080432"><para id="id4153627">Explain why the two Lewis structures for Freon
+	114, shown in Figure 21<link target-id="fig21"/>, are identical.
+	Draw a Lewis structures for an isomer of Freon 114, that is,
+	another molecule with the same molecular formula as Freon 114 but a
+	different structural formula.</para></problem></exercise>
+    </section>
+  </content>
+</document>

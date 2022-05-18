@@ -1,0 +1,777 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Structure of an Atom</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>084734de-2e96-4266-b13c-67cd9e1365ca</md:uuid>
+</metadata>
+
+  <content>
+    <section id="id2668882">
+<title>Foundation</title>
+<para id="id2669166">We begin as a starting point with the atomic
+molecular theory. We thus assume that most of the common elements
+have been identified, and that each element is characterized as
+consisting of identical, indestructible atoms. We also assume that
+the atomic weights of the elements are all known, and that, as a
+consequence, it is possible via mass composition measurements to
+determine the molecular formula for any compound of interest. In
+addition, we will assume that it has been shown by electrochemical
+experiments that atoms contain equal numbers of positively and
+negatively charged particles, called protons and electrons
+respectively. Finally, we assume an understanding of the Periodic
+Table. In particular, we assume that the elements can be grouped
+according to their common chemical and physical properties, and
+that these chemical and physical properties are periodic functions
+of the atomic number.</para>
+</section>
+<section id="id2669507">
+<title>Goals</title>
+<para id="id2670194">The atomic molecular theory is extremely
+useful in explaining what it means to form a compound from its
+component elements. That is, a compound consists of identical
+molecules, each comprised of the atoms of the component elements in
+a simple whole number ratio. However, our knowledge of these atoms
+is very limited. The only property we know at this point is the
+relative mass of each atom. Consequently, we cannot answer a wide
+range of new questions. We need a model which accounts for the
+periodicity of chemical and physical properties as expressed in the
+Periodic Table. Why are elements which are very dissimilar in
+atomic mass nevertheless very similar in properties? Why do these
+common properties recur periodically?</para>
+<para id="id2671075">We would like to understand what determines
+the number of atoms of each type which combine to form stable
+compounds. Why are some combinations found and other combinations
+not observed? Why do some elements with very dissimilar atomic
+masses (for example, iodine and chlorine) form very similar
+chemical compounds? Why do other elements with very similar atomic
+masses (for example, oxygen and nitrogen) form very dissimilar
+compounds? In general, what forces hold atoms together in forming a
+molecule?</para>
+<para id="id2671906">Answering these questions requires knowledge
+of the structure of the atom, including how the structures of atoms
+of different elements are different. Our model should tell us how
+these structural differences result in the different bonding
+properties of the different atoms.</para>
+</section>
+<section id="id2671910">
+<title>Observation 1: Scattering of α particles by
+atoms</title>
+<para id="id2672500">We have assumed that atoms contain positive
+and negative charges and the number of these charges is equal in
+any given atom. However, we do not know what that number is, nor do
+we know how those charges are arranged inside the atom. To
+determine the location of the charges in the atom, we perform a
+"scattering" experiment. The idea is straightforward:
+since we cannot "see" the atomic structure, then we
+instead "throw" things at the atom and watch the way in
+which these objects are deflected by the atom. Working backwards,
+we can then deduce what the structure of the atom must be.</para>
+<para id="id2673222">The atoms we choose to shoot at are gold, in
+	the form of a very thin gold foil of thickness about 
+	<m:math>
+	  <m:apply>
+	    <m:times/>
+	    <m:apply>
+	      <m:power/>
+	      <m:cn>10</m:cn>
+	      <m:cn>-4</m:cn>
+	    </m:apply>
+	    <m:ci>cm</m:ci></m:apply></m:math>. The
+objects we "throw" are actually α particles,
+which are positively charged and fairly massive, emitted by
+radioactive polonium nuclei. The α particles are
+directed in a very precise narrow line perpendicular to and in the
+direction of the gold foil. We then look for
+α particles at various angles about the gold foil,
+looking both for particles which have been deflected as they pass
+through the foil or which have been reflected as they bounce off of
+the foil. The scattering experiment is illustrated <link target-id="fig1">here</link>.</para>
+      <figure id="fig1">
+	<title>α particle Scattering from Gold Foil</title>
+	<media id="idp8667280" alt=""><image src="../../media/fig1-9763.png" mime-type="image/png"/><image for="pdf" src="../../media/fig1-a82b.eps" mime-type="application/postscript"/></media>
+      </figure>
+<para id="id2676153">The result of the experiment is initially
+counter-intuitive. Most of the α particles pass
+through the gold foil undeflected, as if there had been nothing in
+their path! A smaller number of the particles are deflected sharply
+as they pass through the foil, and a very small fraction of the
+α particles are reflected backwards off of the gold
+foil. How can we simultaneously account for the lack of any
+deflection for most of the α particles and for the
+deflection through large angles of a very small number of
+particles?</para>
+<para id="id2676883">First, since the majority of the positively
+charged α particles pass through the gold foil
+undeflected, we can conclude that most of the volume of each gold
+atom is empty space, containing nothing which might deflect an
+α particle. Second, since a few of the positively
+charged α particles are deflected very sharply, then
+they must encounter a positively charged massive particle inside
+the atom. We therefore conclude that all of the positive charge and
+most of the mass of an atom is contained in a 
+<term>nucleus</term>. The nucleus must be very small, very massive,
+and positively charged if it is to account for the sharp
+deflections. A detailed calculation based assuming this model
+reveals that the nucleus must be about 100,000 times smaller than
+the size of the atom itself. The electrons, already known to be
+contained in the atom, must be outside of the nucleus, since the
+nucleus is positively charged. They must move in the remaining
+space of the much larger volume of the atom. Moreover, in total,
+the electrons comprise less than 0.05% of the total mass of an
+atom.</para>
+<para id="id2680611">This model accounts for observation of both
+undeflected passage most of α particles and sharp
+deflection of a few. Most α particles pass through
+the vast empty space of the atom, which is occupied only by
+electron. Even the occasional encounter with one of the electrons
+has no effect on an α particle’s path, since
+each α particle is much more massive than an
+electron. However, the nucleus is both massive and positively
+charged, but it is also small. The rare encounter of an
+α particle with the nucleus will result in very large
+deflections; a head-on collision with a gold atom nucleus will send
+an α particle directly back to its source.</para>
+</section>
+<section id="id2682301">
+<title>Observation 2: X-ray emission</title>
+<para id="id2681848">Although we can now conclude that an atom has
+a nuclear structure, with positive charge concentrated in a very
+small nucleus and a number of electrons moving about the nucleus in
+a much larger volume, we do not have any information on how many
+electrons there are in an atom of any given element or whether this
+number depends on the type of atom. Does a gold atom have the same
+number of electrons as a silver atom? All we can conclude from the
+data given is that the number of positive charges in the nucleus
+must exactly equal the number of electrons moving outside the
+nucleus, since each atom is neutral. Our next difficulty is that we
+do not know what these numbers are.</para>
+<para id="id2683175">The relevant observation seems unrelated to
+the previous observations. In this case, we examine the frequency
+of x-rays emitted by atoms which have been energized in an
+electrical arc. Each type of atom (each element) emits a few
+characteristic frequencies of x-rays, which differ from one atom to
+the next. The lowest x-ray frequency emitted by each element is
+found to increase with increasing position in the periodic
+table.</para>
+<para id="id2683087">Most amazingly, there is an unexpected
+relationship between the frequency and the relative mass of each
+atom. Let’s rank order the elements by atomic mass, and
+assign an integer to each according to its ranking in order by
+mass. In the Periodic Table, this rank order number also
+corresponds to the element’s position in the Periodic Table.
+For example, Hydrogen is assigned 1, Helium is assigned 2, etc. If
+we now plot the lowest frequency versus the position number in the
+periodic table, we find that the frequency increases directly as a
+simple function of the ranking number. This is shown 
+	<link target-id="fig2">here</link>,
+where we have plotted the square root of the x-ray frequency as a
+function of the ranking number. After a single correction, there is
+a simple straight-line relationship between these numbers. (The
+single correction is that the rankings of Argon and Potassium must
+be reversed. These elements have very similar atomic masses.
+Although Argon atoms are slightly more massive than Potassium
+atoms, the Periodic Law requires that we place Argon before
+Potassium, since Argon is a member of the inert gas group and
+Potassium is a member of the alkali metal group. By switching their
+order to correspond to the Periodic Table, we can maintain the
+beautiful relationship shown <link target-id="fig2">here</link>.)</para>
+ <figure id="fig2">
+	<title>X-ray Frequencies Versus Atomic Number</title>
+	<media id="idp12579168" alt=""><image src="../../media/fig2-3f9c.png" mime-type="image/png"/><image for="pdf" src="../../media/fig2-db09.eps" mime-type="application/postscript"/></media>
+      </figure>
+<para id="id2533891">Why is this simple relationship a surprise?
+The integer ranking of an element by mass would not seem to be a
+physical property. We simply assigned these numbers in a listing of
+the elements which we constructed. However, we have discovered that
+there is a simple quantitative relationship between a real physical
+quantity (the x-ray frequency) and the ranking number we assigned.
+Moreover, there are no "breaks" in the straight line shown <link target-id="fig2">here</link>, meaning that 
+all of the elements in our mass list must be
+accounted for. Both observations reveal that the ranking number of
+each atom must also be a real physical quantity itself, directly
+related to a structural property of each atom. We now call the
+ranking number the 
+<term>atomic number</term>, since it is a number which uniquely
+characterizes each atom.</para>
+<para id="id2616896">Furthermore, we know that each atom must
+possess an integer number of positive charges. Since the x-ray data
+demonstrates a physical property, the atomic number, which is also
+an integer, the simplest conclusion is that the atomic number from
+the x-ray data is the number of positive charges in the nucleus.
+Since each atom is neutral, the atomic number must also equal the
+number of electrons in a neutral atom.</para>
+<para id="id2528364">We now know a great deal about the structure
+of an atom. We know that the atom has a nuclear structure, we know
+that the positive charges and mass of the atom are concentrated in
+the nucleus, and we know how many protons and electrons each atom
+has. However, we do not yet know anything about the positioning and
+movement of the electrons in the vast space surrounding the
+nucleus.</para>
+</section>
+<section id="id2530967">
+<title>Observation 3: Ionization energies of the atoms</title>
+<para id="id2530982">Each electron must move about the nucleus in
+an electrical field generated by the positive charge of the nucleus
+and the negative charges of the other electrons. Coulomb's
+law determines the potential energy of attraction of each electron
+to the nucleus:</para>
+      <equation id="eqn1">
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:apply>
+	      <m:ci type="fn">V</m:ci>
+	      <m:ci>r</m:ci>
+	    </m:apply>
+	    <m:apply>
+	      <m:divide/>
+	      <m:apply>
+		<m:times/>
+		<m:apply>
+		  <m:times/>
+		  <m:apply>
+		    <m:plus/>
+		    <m:ci>Z</m:ci>
+		  </m:apply>
+		  <m:ci>e</m:ci>
+		</m:apply>
+		<m:apply>
+		  <m:minus/>
+		  <m:ci>e</m:ci>
+		</m:apply>
+	      </m:apply>
+	      <m:ci>r</m:ci>
+	    </m:apply>
+	  </m:apply>
+	</m:math>
+      </equation>
+      <para id="id2583012">where 
+	<m:math>
+	  <m:apply>
+	    <m:times/>
+	    <m:apply>
+	      <m:plus/>
+	      <m:ci>Z</m:ci>
+	    </m:apply>
+	    <m:ci>e</m:ci>
+	  </m:apply>
+	</m:math> is the charge on the nucleus with
+	atomic number <m:math><m:ci>Z</m:ci></m:math>
+	and
+	<m:math>
+	  <m:apply>
+	    <m:minus/>
+	    <m:ci>e</m:ci>
+	  </m:apply>
+	</m:math> is the charge on the electron, and r is the
+	distance from the electron to the nucleus. The potential energy of
+	an electron in an atom is negative. This is because we take the
+	potential energy of the electron when removed to great distance
+	from the atom (very large <m:math><m:ci>r</m:ci></m:math>) 
+	to be zero, since the electron and the
+	nucleus do not interact at large distance. In order to remove an
+	electron from an atom, we have to raise the potential energy from
+	its negative value to zero. According to Coulomb's law, we
+	expect electrons closer to the nucleus to have a lower potential
+	energy and thus to require more energy to remove from the
+	atom.</para>
+      <para id="id2591746">We can directly measure how much energy is
+	required to remove an electron from an atom. Without concerning
+	ourselves with how this measurement is made, we simply measure the
+	minimum amount of energy required to carry out the following
+	"ionization reaction":</para>
+      <equation id="eqn2">
+	<m:math>
+	  <m:mrow>
+	    <m:mi>A</m:mi>
+	    <m:mi>(g)</m:mi>
+	    <m:mo>→</m:mo>
+	    <m:msup>
+	      <m:mi>A</m:mi>
+	      <m:mo>+</m:mo>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	    <m:mo>+</m:mo>
+	    <m:msup>
+	      <m:mi>e</m:mi>
+	      <m:mo>-</m:mo>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	  </m:mrow>
+	</m:math>
+      </equation>
+      <para id="id2415377">Here, <m:math><m:mi>A</m:mi></m:math>
+	is an atom in the gas phase, and <m:math>
+	  <m:msup>
+	    <m:mi>A</m:mi>
+	    <m:mo>+</m:mo>
+	  </m:msup>
+	</m:math> is
+	the same atom with one electron  <m:math><m:msup>
+	      <m:mi>e</m:mi>
+	      <m:mo>-</m:mo>
+	    </m:msup> </m:math>removed and is thus an ion.
+	The minimum energy required to perform the ionization is called the
+	<term>ionization energy</term>. The values of the ionization energy
+	for each atom in Groups I through VIII of the periodic table are
+	shown as a function of the atomic number 
+	<link target-id="fig3">here</link>.</para>
+      <figure id="fig3">
+	<media id="idp8383872" alt=""><image src="../../media/fig3-ab6d.png" mime-type="image/png"/><image for="pdf" src="../../media/fig3-f118.eps" mime-type="application/postscript"/></media>
+      </figure>
+      <para id="id2623180">This figure is very reminiscent of the
+	Periodic Law, which states that chemical and physical properties of
+	the elements are periodic functions of the atomic number. Notice
+	that the elements with the largest ionization energies (in other
+	words, the most tightly bound electrons) are the inert gases. By
+	contrast, the alkali metals are the elements with the smallest
+	ionization energies. In a single period of the periodic table,
+	between each alkali metal atom and the next inert gas atom, the
+	ionization energy rises fairly steadily, falling dramatically from
+	the inert gas to the following alkali metal at the start of the
+	next period.</para>
+      <para id="id2623221"/>
+      <para id="id2414511">We need a model which accounts for these
+	variations in the ionization energy. A reasonable assumption from
+Coulomb's law is that these variations are due to variations
+in the nuclear charge (atomic number) and in the distance of the
+electrons from the nucleus. To begin, we can make a very crude
+approximation that the ionization energy is just the negative of
+this attractive potential energy given by Coulomb's law. This
+is crude because we have ignored the kinetic energy and because
+each electron may not have fixed value of
+	<m:math><m:mi>r</m:mi></m:math>.</para>
+<para id="id2444433">Nevertheless, this approximation gives a way
+to analyze <link target-id="fig3">this figure</link>. 
+	For example, from Coulomb's law it seems
+to make sense that the ionization energy should increase with
+increasing atomic number. It is easier to remove an electron from
+Lithium than from Neon because the nuclear charge in Lithium is
+much smaller than in Neon. But this cannot be the whole picture,
+because this argument would imply that Sodium atoms should have
+greater ionization energy than Neon atoms, when in fact Sodium
+atoms have a very much lower ionization energy. Similarly, although
+the ionization energy rises as we go from Sodium to Argon, the
+ionization energy of Argon is still less than that of Neon, even
+though the nuclear charge in an Argon atom is much greater than the
+nuclear charge in a Neon atom. What have we omitted from our
+analysis?</para>
+<para id="id2633937">The answer is that we must consider also the
+distance of the electrons from the nucleus. Since it requires much
+less energy to ionize a Sodium atom than to ionize a Neon atom even
+though Sodium's nuclear charge is greater, it must be that
+the electron which we remove from a Sodium atom is much farther
+from the nucleus than the electron in the Neon atom. We can make
+the same comparison of the electrons removed during ionization of
+Neon and Argon atoms: the Argon electron must be farther from the
+nucleus than the Neon electron.</para>
+<para id="id2619917">On the other hand, since the ionization energy
+fairly smoothly increases as we move from Lithium to Neon in the
+second period of elements, this reveals that the electrons are
+increasingly attracted to the nucleus for greater nuclear charge
+and suggests that the electrons' distance from the nucleus
+might not be varying too greatly over the course of a single period
+of the table.</para>
+<para id="id2645365">If we follow this reasoning, we can even
+estimate how far an electron might typically be from the nucleus by
+using our crude approximation that the ionization energy is equal
+to the negative of the Coulomb potential and solving for 
+	<m:math><m:mi>r</m:mi></m:math> for each
+atom. This gives an estimate of distance of the electron from the
+nucleus:</para>
+      <equation id="eqn3">
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci><m:msub>
+		<m:mi>r</m:mi>
+		<m:mi>shell</m:mi>
+	      </m:msub></m:ci>
+	    <m:apply>
+	      <m:minus/>
+	      <m:apply>
+		<m:divide/>
+		<m:apply>
+		  <m:times/>
+		  <m:apply>
+		    <m:times/>
+		    <m:apply>
+		      <m:plus/>
+		      <m:ci>Z</m:ci>
+		    </m:apply>
+		    <m:ci>e</m:ci>
+		  </m:apply>
+		  <m:apply>
+		    <m:minus/>
+		    <m:ci>e</m:ci>
+		  </m:apply>
+		</m:apply>
+		<m:ci><m:mtext>ionization energy</m:mtext></m:ci>
+	      </m:apply>
+	    </m:apply>
+	  </m:apply>
+	</m:math>
+      </equation>
+<para id="id2635529">Values of <m:math><m:msub>
+		<m:mi>r</m:mi>
+		<m:mi>shell</m:mi>
+	      </m:msub></m:math> calculated in this way are
+shown for the first 20 elements <link target-id="fig4">here</link>. Also shown for
+comparison is the ionization energy for these elements. Notice that
+the approximate distance of the electrons from the nucleus
+increases in steps exactly coinciding with the increases and dips
+in the ionization energy.</para>
+      <figure id="fig4">
+	<media id="idp13543344" alt=""><image src="../../media/fig4-809f.png" mime-type="image/png"/><image for="pdf" src="../../media/fig4-7577.eps" mime-type="application/postscript"/></media>
+      </figure>
+<para id="id2601930">Although these distances we have calculated do
+not have a precise physical meaning, <link target-id="fig4">this
+	  figure</link>
+	suggests a significant
+conclusion. The electrons in the elements are arranged into
+"shells" of increasingly greater distance from the
+nucleus. Hydrogen and Helium, with one and two electrons, have
+ionization energies consistent with electrons at similar and close
+distance from the nucleus. Then the second row elements lithium
+through neon have virtually identical sizes, though larger than
+that for the first two elements. The third row elements, sodium
+argon, have an approximate electron-nuclear distance which
+fluctuates a bit but is consistently larger than the second row
+elements.</para>
+<para id="id2589449">Because the sizes of the atoms appear to grow
+in steps which correspond exactly to the periods of the Periodic
+Table, it seems that the electrons in the atoms are grouped into
+sets which are differing distances away from the nucleus. The first
+two electrons, as in Helium, are close to the nucleus, whereas
+additional electrons, as in Lithium to Neon, are farther from the
+nucleus than the first two. The suggests that, for atoms Lithium to
+Neon, the first two electrons are in an inner "shell",
+and the remaining electrons are in an outer
+"shell."</para>
+<para id="id2442962">We can refine this shell model for the
+electrons in an atom with further analysis of ionization energies.
+We can remove any number of electrons in sequence, forming ions
+with greater charge. We have been examining the first ionization
+energy,<m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>1</m:mn>
+	  </m:msub>
+	</m:math>, but each successively removed electron has
+	successively greater ionization energy:</para>
+      <para id="p4">First ionization energy <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>1</m:mn>
+	  </m:msub>
+	</m:math>:</para>
+      <equation id="eqn4">
+	<m:math>
+	  <m:mrow>
+	    <m:mi>A</m:mi>
+	    <m:mi>(g)</m:mi>
+	    <m:mo>→</m:mo>
+	    <m:msup>
+	      <m:mi>A</m:mi>
+	      <m:mo>+</m:mo>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	    <m:mo>+</m:mo>
+	    <m:msup>
+	      <m:mi>e</m:mi>
+	      <m:mo>-</m:mo>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	  </m:mrow>
+	</m:math>
+      </equation>
+      <para id="p5">Second ionization energy <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>2</m:mn>
+	  </m:msub>
+	</m:math>:</para>
+      <equation id="eqn5">
+	<m:math>
+	  <m:mrow>
+	    <m:msup>
+	      <m:mi>A</m:mi>
+	      <m:mo>+</m:mo>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	    <m:mo>→</m:mo>
+	    <m:msup>
+	      <m:mi>A</m:mi>
+	      <m:mi>2+</m:mi>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	    <m:mo>+</m:mo>
+	    <m:msup>
+	      <m:mi>e</m:mi>
+	      <m:mo>-</m:mo>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	  </m:mrow>
+	</m:math>
+      </equation>
+      <para id="p6">Third ionization energy <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>3</m:mn>
+	  </m:msub>
+	</m:math>:</para>
+      <equation id="eqn6">
+	<m:math>
+	  <m:mrow>
+	    <m:msup>
+	      <m:mi>A</m:mi>
+	      <m:mi>2+</m:mi>
+	    </m:msup>
+	    <m:mo>→</m:mo>
+	    <m:msup>
+	      <m:mi>A</m:mi>
+	      <m:mi>3+</m:mi>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	    <m:mo>+</m:mo>
+	    <m:msup>
+	      <m:mi>e</m:mi>
+	      <m:mo>-</m:mo>
+	    </m:msup>
+	    <m:mi>(g)</m:mi>
+	  </m:mrow>
+	</m:math>
+      </equation>
+<para id="id2435060">The sequential ionization energies for the
+	elements in the second row of the periodic table are shown 
+	<link target-id="table1">here</link>.</para>
+      <table id="table1" summary="">
+<title>Successive Ionization Energies (kJ/mol)</title>
+<tgroup cols="9" align="center"><thead>
+	    <row>
+	      <entry/>
+	      <entry>Na</entry>
+	      <entry>Mg</entry>
+	      <entry>Al</entry>
+	      <entry>Si</entry>
+	      <entry>P</entry>
+	      <entry>S</entry>
+	      <entry>Cl</entry>
+	      <entry>Ar</entry>
+	    </row>
+	  </thead>
+	  <tbody>
+	    <row>
+	      <entry> <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>1</m:mn>
+	  </m:msub>
+	</m:math></entry>
+	      <entry>496</entry>
+	      <entry>738</entry>
+	      <entry>578</entry>
+	      <entry>787</entry>
+	      <entry>1012</entry>
+	      <entry>1000</entry>
+	      <entry>1251</entry>
+	      <entry>1520</entry>
+	    </row>
+	    <row>
+	      <entry> <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>2</m:mn>
+	  </m:msub>
+	</m:math></entry>
+	      <entry>4562</entry>
+	      <entry>1451</entry>
+	      <entry>1817</entry>
+	      <entry>1577</entry>
+	      <entry>1903</entry>
+	      <entry>2251</entry>
+	      <entry>2297</entry>
+	      <entry>2665</entry>
+	    </row>
+	    <row>
+	      <entry> <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>3</m:mn>
+	  </m:msub>
+	</m:math></entry>
+	      <entry>6912</entry>
+	      <entry>7733</entry>
+	      <entry>2745</entry>
+	      <entry>3231</entry>
+	      <entry>2912</entry>
+	      <entry>3361</entry>
+	      <entry>3822</entry>
+	      <entry>3931</entry>
+	    </row>
+	    <row>
+	      <entry> <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>4</m:mn>
+	  </m:msub>
+	</m:math></entry>
+	      <entry>9543</entry>
+	      <entry>10540</entry>
+	      <entry>11575</entry>
+	      <entry>4356</entry>
+	      <entry>4956</entry>
+	      <entry>4564</entry>
+	      <entry>5158</entry>
+	      <entry>5770</entry>
+	    </row>
+	    <row>
+	      <entry> <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>5</m:mn>
+	  </m:msub>
+	</m:math></entry>
+	      <entry>13353</entry>
+	      <entry>13630</entry>
+	      <entry>14830</entry>
+	      <entry>16091</entry>
+	      <entry>6273</entry>
+	      <entry>7013</entry>
+	      <entry>6542</entry>
+	      <entry>7238</entry>
+	    </row>
+	    <row>
+	      <entry> <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>6</m:mn>
+	  </m:msub>
+	</m:math></entry>
+	      <entry>16610</entry>
+	      <entry>17995</entry>
+	      <entry>18376</entry>
+	      <entry>19784</entry>
+	      <entry>22233</entry>
+	      <entry>8495</entry>
+	      <entry>9458</entry>
+	      <entry>8781</entry>
+	    </row>
+	    <row>
+	      <entry> <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>7</m:mn>
+	  </m:msub>
+	</m:math></entry>
+	      <entry>20114</entry>
+	      <entry>21703</entry>
+	      <entry>23293</entry>
+	      <entry>23783</entry>
+	      <entry>25397</entry>
+	      <entry>27106</entry>
+	      <entry>11020</entry>
+	      <entry>11995</entry>
+	    </row>
+	  </tbody>
+	
+</tgroup>
+</table>
+<para id="id2628466">Note that the second ionization energy is
+always greater than the first, and the third is always greater than
+the second, etc. This makes sense, since an electron should be more
+strongly attracted to a positively charged atom than to a neutral
+atom.</para>
+<para id="id2628601">However, the data in <link target-id="table1">the
+	  table</link>
+	show a surprising
+	feature. In most cases, the ionization energy increases a fairly
+	large amount for successive ionizations. But for each atom, there
+	is one much larger increase in ionization in the sequence. In Na
+	for example,  <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>2</m:mn>
+	  </m:msub>
+	</m:math> is nearly 10 times greater than  <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>1</m:mn>
+	  </m:msub>
+	</m:math>. Similarly,
+	 <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>3</m:mn>
+	  </m:msub>
+	</m:math> is five times greater than  <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>2</m:mn>
+	  </m:msub>
+	</m:math> for Mg, although  <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>2</m:mn>
+	  </m:msub>
+	</m:math> is less
+	than twice  <m:math>
+	  <m:msub>
+	    <m:mi>IE</m:mi>
+	    <m:mn>1</m:mn>
+	  </m:msub>
+	</m:math>. The data for Na through S all show a single large
+	step in addition to the smaller increases in IE.</para>
+<para id="id2628665">Looking closely and counting electrons, we see
+	that this unusually large increase always occurs for the ionization
+	where we have already removed all of the outer shell electrons and
+are now removing an electron from the inner shell. This occurs
+uniformly across the second row elements, indicating that our shell
+model is in fact a very accurate predictor of the higher ionization
+energies. We can now tell how many electrons there are in the outer
+shell of each atom: it is equal to the number of electrons since
+the last inert gas.</para>
+<para id="id2628903">We can conclude that an inner shell is
+"filled" once we have the number of electrons equal to
+the number in an inert gas atom. The subsequent electrons are added
+to a new outer shell. This is commonly referred to as the
+<term>valence shell</term> of the atom.</para>
+<para id="id2628924">However, we do not know why only a limited
+number of electrons can reside in each shell. There is no obvious
+reason at this point why all the electrons in an atom do not reside
+in the shell closest to the nucleus. Similarly, there is no reason
+given for why the number of electrons in an inert gas atom exactly
+fills the outer shell, without room for even a single additional
+electron. These questions must be addressed further.</para>
+</section>
+<section id="id2628954">
+<title>Review and Discussion Questions</title>
+<exercise id="ex1"><problem id="idp9760112"><para id="id2631133">Explain how the scattering of α
+particles from gold foil reveals that an atom contains a massive,
+positively charged nucleus whose size is much smaller than that of
+the atom.</para></problem></exercise>
+<exercise id="ex2"><problem id="idp13001200"><para id="id2631153">Explain the significance of the relationship
+between the frequency of x-ray emission from each atom and the
+atomic ranking of that atom in the periodic table.</para></problem></exercise>
+<exercise id="ex3"><problem id="idp11079872"><para id="id2631171">Provide experimental evidence which reveals
+that the electrons in an atom are grouped into a valence shell and
+inner shell electrons.</para></problem></exercise>
+<exercise id="ex4"><problem id="idp11100576"><para id="id2631186">State and explain the evidence which reveals that the 
+outer
+	    shell of each inert gas atom is full.</para></problem></exercise>
+      <exercise id="ex5"><problem id="idp11250992"><para id="id2631187">Why does the ionization energy for each successive 
+ionization
+	    increase for every atom? Why is the increase from  <m:math>
+	      <m:msub>
+		<m:mi>IE</m:mi>
+		<m:mn>4</m:mn>
+	      </m:msub>
+	    </m:math> to  <m:math>
+	      <m:msub>
+		<m:mi>IE</m:mi>
+		<m:mn>5</m:mn>
+	      </m:msub>
+	    </m:math> in Si
+	    much larger than any of the other increases for Si?</para></problem></exercise>
+    </section> 
+  </content>
+  
+</document>

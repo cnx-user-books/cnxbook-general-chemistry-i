@@ -1,0 +1,1188 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Quantum Energy Levels In Atoms</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>195e5b2b-bc8a-4cc1-be89-d7bbbf5676da</md:uuid>
+</metadata>
+<content>
+<section id="id3365834">
+<title>Foundation</title>
+<para id="id3365842">The atomic molecular theory provides us a
+particulate understanding of matter. Each element is characterized
+as consisting of identical, indestructible atoms with atomic
+weights which have been determined. Compounds consist of identical
+molecules, each made up from a specific number of atoms of each of
+the component elements. We also know that atoms have a nuclear
+structure, meaning that all of the positive charge and virtually
+all of the mass of the atom are concentrated in a nucleus which is
+a very small fraction of the volume of the atom. Finally, we know
+that the electrons in the atom are arranged in "shells" about the nucleus, with each shell farther from the nucleus that
+the previous. The electrons in outer shells are more weakly
+attached to the atom than the electrons in the inner shells, and
+only a limited number of electrons can fit in each shell.</para>
+</section>
+<section id="id3365878">
+<title>Goals</title>
+<para id="id3365886">The shell model of the atom is a good start in
+understanding the differences in the chemical properties of the
+atoms of different elements. For example, we can understand the
+periodicity of chemical and physical properties from our model,
+since elements in the same group have the same number of electrons
+in the valence shell.</para>
+<para id="id3365903">However, there are many details missing from
+our description. Other than a very crude calculation of
+"distance" of the shells from the nucleus, we have no
+description of what the differences are between the electrons in
+different shells. What precisely is a "shell?"</para>
+<para id="id3365930">Most importantly, the arrangement of elements
+into groups and the periodicity of chemical properties both depend
+	on the concept that a shell is "filled" by a certain
+number of electrons. Looking at the number of elements in each
+period, the number of electrons which fills a shell depends on
+which shell is being filled. In some cases, a shell is filled by
+eight electrons, in others, it appears to be 18 electrons. What
+determines how many electrons can "fit" in a shell? Why
+is there a limit at all?</para>
+<para id="id3365962">Finally, a closer look at the ionization
+energies <link document="m12433" target-id="fig3">here</link> reveals that
+our shell model must be incomplete. Our model implies that the
+elements of the second period from Lithium to Neon have their
+valence electrons in the second shell. With increasing nuclear
+charge, the ionization energy of these atoms should increase from
+Lithium to Neon. As a general trend, this is true, but there are
+variations. Note that the ionization energy of Oxygen atoms is less
+than that of Nitrogen atoms. We need to pursue additional detail in
+our model of the structure of the atom.</para>
+</section>
+<section id="id3365991">
+<title>Observation 1: The Spectrum of Hydrogen</title>
+      <para id="id3366002">To begin, we need to know a little about
+light. All forms of electromagnetic radiation travel as an
+oscillating wave, with an electric field component perpendicular to
+a magnetic field component. As a wave, the radiation can be
+characterized by its "wavelength", symbolized as <m:math><m:ci>λ</m:ci></m:math>, which is the 
+distance between adjacent peaks in the wave.
+Different wavelengths correspond to different forms of
+electromagnetic radiation. For example, microwave radiation has
+wavelength in the range of <m:math>
+	  <m:apply>
+	    <m:power/>
+	    <m:cn>10</m:cn>
+	    <m:cn>-2</m:cn>
+	  </m:apply>
+	</m:math> to 
+	<m:math>
+	  <m:apply>
+	    <m:power/>
+	    <m:cn>10</m:cn>
+	    <m:cn>-3</m:cn>
+	  </m:apply>
+	</m:math> meters, whereas x-ray
+radiation has wavelength in the range  <m:math>
+	  <m:apply>
+	    <m:power/>
+	    <m:cn>10</m:cn>
+	    <m:cn>-9</m:cn>
+	  </m:apply>
+	</m:math> to <m:math>
+	  <m:apply>
+	    <m:power/>
+	    <m:cn>10</m:cn>
+	    <m:cn>-10</m:cn>
+	  </m:apply>
+	</m:math> meters.
+Radiation which is visible to the human eye has wavelength in the
+very narrow range from  <m:math><m:cn type="e-notation">3.8<m:sep/>-7</m:cn>
+	</m:math> to <m:math>
+	  <m:cn type="e-notation">7.8<m:sep/>-7</m:cn>
+	</m:math> meters.</para>
+<para id="id3366096">Radiation can also be characterized by the
+frequency of the electromagnetic wave, which is the number of peaks
+in the wave which pass a point in space per second. Frequency is
+symbolized by <m:math><m:ci>ν</m:ci></m:math>. The speed which light travels in a vacuum
+in the same for all forms of electromagnetic radiation,
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>c</m:ci>
+            <m:apply><m:times/>
+	    <m:cn type="e-notation">2.997<m:sep/>8</m:cn>
+	    <m:apply>
+		<m:divide/>
+		<m:ci>m</m:ci>
+		<m:ci>s</m:ci>
+	     </m:apply>
+	    </m:apply>
+	  </m:apply>
+	</m:math>. As such, we can relate the frequency of
+light to the wavelength of light by the equation</para>
+      <equation id="eqn1">
+	<m:math>
+	  <m:mrow>
+	    <m:mi>λ</m:mi>
+	    <m:mo>(</m:mo>
+	    <m:mi>m</m:mi>
+	    <m:mo>)</m:mo>
+	    <m:mo>×</m:mo>
+	    <m:mi>ν</m:mi>
+	    <m:mo>(</m:mo>
+	    <m:msup>
+	      <m:mi>s</m:mi>
+	      <m:mn>-1</m:mn>
+	    </m:msup>
+	    <m:mo>)</m:mo>
+	    <m:mo>=</m:mo>
+	    <m:mi>c</m:mi>
+	    <m:mo>(</m:mo>
+	    <m:mfrac>
+	      <m:mi>m</m:mi>
+	      <m:mi>s</m:mi>
+	    </m:mfrac>
+	    <m:mo>)</m:mo>
+	  </m:mrow>
+	</m:math>
+      </equation>
+<para id="id3366166">The longer the wavelength <m:math><m:ci>λ</m:ci></m:math>, the lower
+the frequency <m:math><m:ci>ν</m:ci></m:math>. This makes sense when we remember that
+light travels at a fixed speed. When the wavelength is longer,
+fewer peaks will pass a point in space in a second. From this
+equation, there is a specific relationship between frequency and
+wavelength, and either or both can be used to characterize the
+properties of radiation.</para>
+<para id="id3366201">With this background in hand, we can use our
+understanding of light to pursue more data about the energies of
+electrons in atoms. Ionization energies tell us how much energy is
+required to remove an electron from an atom, but do not tell what
+happens if an electron changes its energy in an atom. To analyze
+this, we need a means to measure the energies gained or lost by an
+atom. One way to do so is to analyze the "spectrum" of
+an atom, which is the set of frequencies of light emitted by the
+atom. Since hydrogen is the simplest atom, we analyze the hydrogen
+spectrum first. We find that, if we pass a current of electricity
+through a sample of hydrogen gas, light is emitted. Careful
+analysis shows that, although some of this light is emitted by 
+	<m:math>
+	  <m:msub>
+	    <m:mi>H</m:mi>
+	    <m:mn>2</m:mn>
+	  </m:msub>
+	</m:math>
+molecules, some of the light is also emitted by H atoms. Since
+light is a form of energy, then these H atoms must release energy
+supplied to them by the electrons in the current.</para>
+<para id="id3366258">Most importantly, if we pass the light emitted
+by the hydrogen gas sample through a prism, we can separate the
+colors as in a rainbow, each with a characteristic frequency. The
+resultant image of separated colors is called the 
+<term>spectrum</term> of hydrogen. We find in this experiment that
+there are only four frequencies (four colors) of light in the
+emission that are visible. The most intense of the lines in the
+spectrum is bright red, but there are blue and violet lines. It
+turns out that there are also many other frequencies of light
+emitted which are invisible to the human eye.</para>
+<para id="id3366295">Careful observation and analysis reveals that
+every frequency in the hydrogen atom spectrum can be predicted by a
+very simple formula, called the Rydberg equation:</para>
+      <equation id="eqn2">
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>ν</m:ci>
+	    <m:apply>
+	      <m:ci><m:mo>×</m:mo></m:ci>
+	      <m:ci>R</m:ci>
+	      <m:apply>
+              <m:apply>
+		<m:minus/>
+		<m:apply>
+		  <m:divide/>
+		  <m:cn>1</m:cn>
+		  <m:apply>
+		    <m:power/>
+		    <m:ci>n</m:ci>
+		    <m:cn>2</m:cn>
+		  </m:apply>
+		</m:apply>
+		<m:apply>
+		  <m:divide/>
+		  <m:cn>1</m:cn>
+		  <m:apply>
+		    <m:power/>
+		    <m:ci>m</m:ci>
+		    <m:cn>2</m:cn>
+		  </m:apply>
+		</m:apply>
+	      </m:apply>
+            </m:apply>
+	    </m:apply>
+	  </m:apply>
+	</m:math>
+      </equation>
+<para id="id3366343">where <m:math><m:ci>R</m:ci></m:math>
+	is the Rydberg constant (<m:math>
+	  <m:apply>
+	    <m:times/>
+	    <m:cn type="e-notation">3.29<m:sep/>15</m:cn>
+	    <m:apply>
+	      <m:power/>
+	      <m:ci>s</m:ci>
+	      <m:cn>-1</m:cn>
+	    </m:apply>
+	  </m:apply>
+	</m:math>). <m:math><m:ci>n</m:ci></m:math>
+	and <m:math><m:ci>m</m:ci></m:math> are integers (1,2,3,...). 
+	Each choice of <m:math><m:ci>n</m:ci></m:math>
+	and <m:math><m:ci>m</m:ci></m:math> predicts a single observed 
+frequency in the hydrogen atom
+spectrum.</para>
+<para id="id3366417">The atoms of all elements emit radiation when
+energized in an electric current, and as do all molecules of all
+compounds. However, we find that the specific frequencies of light
+emitted are characteristic of each atom or molecule. In other
+words, the spectrum of each element is unique to each element or
+compound. As a result, the spectrum of each substance can be used
+to identify that substance. (Note that the Rydberg equation tells
+us only the spectrum of hydrogen.)</para>
+<para id="id3366444">Our interest is in the fact that the radiation
+emitted by an atom tells us about the amounts of energy which can
+be released by an atom. For a hydrogen atom, for example, these
+changes in energy must correspond to the amounts of energy which
+the electrons inside the atom can gain or lose.</para>
+<para id="id3366460">At this point, we need to relate the frequency
+of radiation emitted by an atom to the amount of energy lost by the
+electron in the atom. We thus examine some observations about the
+energy of radiation.</para>
+</section>
+<section id="id3366476">
+<title>Observation 2: The Photoelectric Effect</title>
+<para id="id3366488">When a light source is directed at a metal
+surface, it is found under many circumstances that electrons are
+ejected from the surface. This phenomenon is called the
+"photoelectric effect." These electrons can be
+collected to produce a usable electric current. (This effect has a
+variety of common practical applications, for example, in
+"electric eye" devices.) It is reasonable to expect
+that a certain amount of energy is required to liberate an electron
+from a metal surface, since the electron is attracted to the
+positively charged nuclei in the metal. Thus, in order for the
+electron to escape, the light must supply sufficient energy to the
+electron to overcome this attraction.</para>
+<para id="id3366527">The following experimental observations are
+found when studying the photoelectric effect. First, in order for
+the effect to be observed, the light must be of at least a minimum
+frequency which we call the 
+<term>threshold frequency</term>, <m:math>
+	  <m:msub>
+	    <m:mi>ν</m:mi>
+	    <m:mn>0</m:mn>
+	  </m:msub>
+	</m:math>. This frequency is a
+characteristic for a given metal. That is, it is the same value for
+each sample of that metal, but it varies from one metal to the
+next. For low frequency light, photoelectrons are not observed in
+any number, no matter how intense the light source
+is. For light with frequency above <m:math>
+	  <m:msub>
+	    <m:mi>ν</m:mi>
+	    <m:mn>0</m:mn>
+	  </m:msub>
+	</m:math>, the number of
+photoelectrons emitted by the metal (measured by the photoelectric
+current, <m:math><m:ci>Φ</m:ci></m:math>) increases directly with the intensity of the
+light. These results are shown in <link target-id="fig1"/>.</para>
+
+      <figure id="fig1">
+	<title>The Photoelectric Effect</title>
+	<subfigure id="fig1a">
+	  <media id="idm7302544" alt=""><image src="../../media/fig1a.png" mime-type="image/png"/><image for="pdf" src="../../media/fig1a.eps" mime-type="application/postscript"/></media>
+	  <caption>For photoelectrons to be emitted, the light
+	  frequency must be greater than a threshold value.</caption>
+	</subfigure>
+	<subfigure id="fig1b">
+	  <media id="idp2435280" alt=""><image src="../../media/fig1b.png" mime-type="image/png"/><image for="pdf" src="../../media/fig1b.eps" mime-type="application/postscript"/></media>
+	  <caption>If the frequency is high enough, the number of
+	  photoelectrons increases directly with the light intensity.</caption>
+	</subfigure>
+	<caption><m:math><m:ci>Φ</m:ci></m:math> is the
+	  photoelectric 
+	  current, <m:math><m:ci>ν</m:ci></m:math> is the
+	frequency of incident light, and
+	<m:math><m:ci>I</m:ci></m:math> is the intensity of incident 
+	  light.</caption>
+      </figure>
+
+<para id="id3366609">Second, we can measure the energies of the
+electrons emitted by the metal. For a given metal, all
+photoelectrons have the same kinetic energy for a fixed frequency
+of light above <m:math>
+	  <m:msub>
+	    <m:mi>ν</m:mi>
+	    <m:mn>0</m:mn>
+	  </m:msub>
+	</m:math>. This fixed kinetic energy is independent
+of the intensity of the light source. As the frequency of the light
+is increased, the kinetic energy of the emitted electrons increases
+proportionally. These results are shown in <link target-id="fig2"/>.</para>
+      
+      <figure id="fig2">
+	<title>More Photoelectric Effect</title>
+	<subfigure id="fig2a">
+	  <media id="idm7543072" alt=""><image src="../../media/fig2a-0ecf.png" mime-type="image/png"/><image for="pdf" src="../../media/fig2a-2efe.eps" mime-type="application/postscript"/></media>
+	  <caption>If the frequency is high enough, the energy of the
+	  electrons increases directly with the frequency.</caption>
+	</subfigure>
+	<subfigure id="fig2b">
+	  <media id="idp425168" alt=""><image src="../../media/fig2b-39b3.png" mime-type="image/png"/><image for="pdf" src="../../media/fig2b-4896.eps" mime-type="application/postscript"/></media>
+	  <caption>However, the energy of the photolectrons does not
+	  depend on the light intensity.</caption>
+	</subfigure>
+	<caption><m:math><m:ci>KE</m:ci></m:math> is the
+	  photoelectron kinetic energy, 
+	  <m:math><m:ci>ν</m:ci></m:math> is the
+	frequency of incident light, and
+	<m:math><m:ci>I</m:ci></m:math> is the intensity of incident 
+	  light.</caption>
+      </figure>
+
+<para id="id3366647">Are these results surprising? To the
+physicists at the end of the nineteenth century, the answer was
+yes, very surprising indeed. They expected that the energy of the
+light source should be determined by its intensity. Hence, the
+energy required to eject a photoelectron should be supplied by
+light of high intensity, no matter how low the frequency of the
+radiation. Thus, there should be no threshold frequency, below
+which no electrons are emitted. Moreover, the kinetic energy of the
+electrons should increase with intensity, not with light frequency. These predictions are
+not observed, so the results are counter to physical
+intuition.</para>
+<para id="id3366728">We can account for these results in a
+straightforward but perhaps non-obvious manner. (Einstein provided
+the explanation in 1905.) Since the kinetic energy of the emitted
+photoelectrons increases proportionally with increases in the
+frequency of the light above the threshold frequency, we can conclude from
+conservation of total energy that the energy supplied by the light
+to the ejected electron must be proportional to its frequency:
+	<m:math>
+	  <m:apply>
+	    <m:ci><m:mo>∝</m:mo></m:ci>
+	    <m:ci>E</m:ci>
+	    <m:ci>ν</m:ci>
+	  </m:apply>
+	</m:math>. This does not immediately account for the
+existence of the threshold frequency, though, since it would still
+seem to be the case that even low frequency light would possess
+high energy if the intensity were sufficient. By this reasoning,
+high intensity, low frequency light should therefore produce as
+many photoelectrons as are produced by low intensity, high
+frequency light. But this is not observed.</para>
+<para id="id3366787">This is a very challenging puzzle, and an
+analogy helps to reveal the subtle answer. Imagine trying to knock
+pieces out of a wall by throwing objects at it. We discover that,
+no matter how many ping pong balls we throw, we cannot knock out a
+piece of the wall. On the other hand, only a single bowling ball is
+required to accomplish the task. The results of this
+"experiment" are similar to the observations of the
+photoelectric effect: very little high frequency light can
+accomplish what an enormous amount of low frequency light cannot.
+The key to understanding our imaginary experiment is knowing that,
+although there are many more ping-pong balls than bowling balls, it
+is only the impact of each individual particle with the wall which
+determines what happens.</para>
+<para id="id3366828">Reasoning from this analogy, we must conclude
+that the energy of the light is supplied in "bundles"
+or "packets" of constant energy, which we will call 
+<term>photons</term>. We have already concluded that the light
+supplies energy to the electron which is proportional to the light
+frequency. Now we can say that the energy of each photon is
+proportional to the frequency of the light. The intensity of the
+light is proportional to the number of these packets. This now
+accounts for the threshold frequency in a straightforward way. For
+a photon to dislodge a photoelectron, it must have sufficient
+energy, by itself, to supply to the electron to overcome its
+attraction to the metal. Although increasing the intensity of the
+light does increase the total energy of the light, it does not
+increase the energy of an individual photon. Therefore, if the
+frequency of the light is too low, the photon energy is too low to
+eject an electron. Referring back to the analogy, we can say that a
+single bowling bowl can accomplish what many ping-pong balls
+cannot, and a single high frequency photon can accomplish what many
+low frequency photons cannot.</para>
+<para id="id3366888">The important conclusion for our purposes is
+that 
+<emphasis>light energy is quantized into packets of
+energy</emphasis>. The amount of energy in each photon is given by
+Einstein’s equation,</para>
+      <equation id="eqn3">
+	<m:math>
+	  <m:apply>
+	    <m:eq/>
+	    <m:ci>E</m:ci>
+	    <m:apply>
+	      <m:times/>
+	      <m:ci>h</m:ci>
+	      <m:ci>ν</m:ci>
+	    </m:apply>
+	  </m:apply>
+	</m:math>
+      </equation>
+<para id="id3366917">where <m:math><m:ci>h</m:ci></m:math>
+ is a constant called Planck’s
+constant.</para>
+</section>
+<section id="id3366930">
+<title>Quantized Energy Levels in Hydrogen Atoms</title>
+<para id="id3366943">We can combine the observation of the hydrogen
+atom spectrum with our deduction that light energy is quantized
+into packets to reach an important conclusion. Each frequency of
+light in the spectrum corresponds to a particular energy of light
+and, therefore, to a particular energy 
+<emphasis>loss</emphasis> by a hydrogen atom, since this light
+energy is quantized into packets. Furthermore, since only certain
+frequencies are observed, then only certain energy losses are
+possible. This is only reasonable if the energy of each hydrogen
+atom is restricted to certain specific values. If the hydrogen atom
+could possess any energy, then it could lose any amount of energy
+and emit a photon of any energy and frequency. But this is not
+observed. Therefore, the energy of the electron in a hydrogen atom
+must be restricted to certain 
+<term>energy levels</term>.</para>
+<para id="id3366995">The Hydrogen atom spectrum also tells us what these
+energy levels are. Recall that the frequencies of radiation emitted
+by Hydrogen atoms are given by the <link target-id="eqn2">Rydberg equation</link>. Each choice of the positive integers <m:math><m:ci>n</m:ci></m:math> and <m:math><m:ci>m</m:ci></m:math>
+predicts a single observed frequency in the hydrogen atom
+spectrum.</para>
+<para id="id3367069">Each emitted frequency must correspond to an
+energy  <m:math>
+         <m:apply>
+	      <m:times/>
+	      <m:ci>h</m:ci>
+	      <m:ci>ν</m:ci>
+	    </m:apply> </m:math> by <link target-id="eqn3">Einstein’s equation</link>. This
+photon energy must be the 
+<emphasis>difference</emphasis> between two energy levels for a
+hydrogen electron, since that is the amount of energy released by
+the electron moving from one level to the other. If the energies of
+the two levels are <m:math><m:msub><m:mi>E</m:mi><m:mi>m</m:mi></m:msub></m:math> and <m:math><m:msub><m:mi>E</m:mi><m:mi>n</m:mi></m:msub></m:math>, then we can write that</para>
+
+  <equation id="eqn4">
+  <m:math>
+   <m:apply>
+     <m:eq/>
+<m:apply>
+	      <m:times/>
+	      <m:ci>h</m:ci>
+	      <m:ci>ν</m:ci>
+	    </m:apply> 
+     <m:apply>
+     <m:minus/>
+      <m:ci><m:msub><m:mi>E</m:mi><m:mi>m</m:mi></m:msub></m:ci>
+      <m:ci><m:msub><m:mi>E</m:mi><m:mi>n</m:mi></m:msub></m:ci>
+    </m:apply>
+    </m:apply>
+</m:math>
+</equation>
+
+<para id="id3367144">By comparing this to the Rydberg equation,
+each energy level must be given by the formula</para>
+<equation id="eqn5">
+  <m:math>
+    <m:apply>
+      <m:eq/>
+      <m:ci><m:msub>
+	  <m:mi>E</m:mi>
+	  <m:mi>n</m:mi>
+	</m:msub></m:ci>
+      <m:apply>
+	<m:times/>
+	<m:apply>
+	  <m:minus/>
+	  <m:ci>h</m:ci>
+	</m:apply>
+	<m:ci>R</m:ci>
+	<m:apply>
+	  <m:divide/>
+	  <m:cn>1</m:cn>
+	  <m:apply>
+	    <m:power/>
+	    <m:ci>n</m:ci>
+	    <m:cn>2</m:cn>
+	  </m:apply>
+	</m:apply>
+      </m:apply>
+    </m:apply>
+  </m:math>
+</equation>
+<para id="id3367181">We can draw two conclusions. First, the
+electron in a hydrogen atom can exist only with certain energies,
+corresponding to motion in what we now call a state or an 
+<term>orbital</term>. Second, the energy of a state can be
+characterized by an integer 
+<term>quantum number</term>, n = 1, 2, 3, ... which determines its
+energy.</para>
+<para id="id3367224">These conclusions are reinforced by similar
+observations of spectra produced by passing a current through other
+elements. Only specific frequencies are observed for each atom,
+although only the hydrogen frequencies obey the Rydberg
+formula.</para>
+<para id="id3367238">We conclude that the energies of electrons in
+atoms are "quantized," that is, restricted to certain
+values. We now need to relate this quantization of energy to the
+existence of shells, as developed in a <link document="m12433">previous study</link>.</para>
+</section>
+<section id="id3367257">
+<title>Observation 3: Photoelectron Spectroscopy of Multi-Electron
+Atoms</title>
+<para id="id3367270">The ionization energy of an atom tells us the
+energy of the electron or electrons which are at highest energy in
+the atom and are thus easiest to remove from the atom. To further
+analyze the energies of the electrons more tightly bound to the
+nucleus, we introduce a new experiment. The photoelectric effect
+can be applied to ionize atoms in a gas, in a process often called 
+<term>photoionization</term>. We shine light on an atom and measure
+the minimum frequency of light, corresponding to a minimum energy,
+which will ionize an electron from an atom. When the frequency of
+light is too low, the photons in that light do not have enough
+energy to ionize electrons from an atom. As we increase the
+frequency of the light, we find a threshold at which electrons
+begin to ionize. Above this threshold, the energy 
+   <m:math>
+     <m:apply>
+	      <m:times/>
+	      <m:ci>h</m:ci>
+	      <m:ci>ν</m:ci>
+	    </m:apply></m:math>  of the
+light of frequency <m:math><m:ci>ν</m:ci></m:math> is greater than the energy required to
+ionize the atom, and the excess energy is retained by the ionized
+electron as kinetic energy.</para>
+<para id="id3367327">In photoelectron spectroscopy, we measure the
+kinetic energy of the electrons which are ionized by light. This
+provides a means of measuring the ionization energy of the
+electrons. By conservation of energy, the energy of the light is
+equal to the ionization energy <m:math><m:ci>IE</m:ci></m:math> plus the kinetic energy <m:math><m:ci>KE</m:ci></m:math> of the
+ionized electron:</para>
+
+<equation id="eqn6">
+<m:math>
+<m:apply>
+<m:eq/>
+<m:apply>
+	      <m:times/>
+	      <m:ci>h</m:ci>
+	      <m:ci>ν</m:ci>
+	    </m:apply>
+<m:apply>
+<m:plus/>
+<m:ci>IE</m:ci>
+<m:ci>KE</m:ci>
+</m:apply>
+</m:apply>
+</m:math>
+</equation>
+<para id="id3367358">Thus, if we use a known frequency <m:math><m:ci>ν</m:ci></m:math> and
+measure <m:math><m:ci>KE</m:ci></m:math>, we can determine <m:math><m:ci>IE</m:ci></m:math>. The more tightly bound an electron
+is to the atom, the higher the ionization energy and the smaller
+the kinetic energy of the ionized electron. If an atom has more
+than one electron and these electrons have different energies, then
+for a given frequency of light, we can expect electrons to be
+ejected with different kinetic energies. The higher kinetic
+energies correspond to the weakly bound outer electrons, and the
+lower kinetic energies correspond to the tightly bound inner
+electrons.</para>
+<para id="id3367390">The ionization energies for the first twenty
+elements are given in <link target-id="table1"/>. We note that there is a single
+ionization energy for hydrogen and helium. This is consistent with
+the shell model of these atoms since, in both of these atoms, the
+electron or electrons are in the innermost shell. The energies of
+these electrons correspond to the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math> energy level of the hydrogen
+atom. In lithium and beryllium, there are two ionization energies.
+Again, this is consistent with the shell model, since now there are
+electrons in both of the first two shells. Note also that the
+ionization energy of the inner shell electrons increases as we go
+from hydrogen to lithium to beryllium, because of the increase in
+nuclear charge. The lower energy electrons correspond to the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math>
+energy level of hydrogen and the higher energy electrons correspond
+to the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> energy level.</para>
+
+<table frame="all" id="table1" summary="">
+<tgroup cols="7" rowsep="1" colsep="1">
+    <colspec colnum="1" colwidth="40"/>
+    <colspec colnum="2" colname="c2" colwidth="20"/>
+    <colspec colnum="3" colwidth="20"/>
+    <colspec colnum="4" colwidth="20"/>
+    <colspec colnum="5" colwidth="20"/>
+    <colspec colnum="6" colwidth="20"/>
+    <colspec colnum="7" colname="c7" colwidth="20"/>
+<thead>
+<row>
+<entry>Element</entry>
+<entry namest="c2" nameend="c7" align="center">Ionization Energy (MJ/mol)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>H</entry>
+<entry>1.31</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>He</entry>
+<entry>2.37</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Li</entry>
+<entry>6.26</entry>
+<entry>0.52</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Be</entry>
+<entry>11.5</entry>
+<entry>0.90</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>B</entry>
+<entry>19.3</entry>
+<entry>1.36</entry>
+<entry>0.80</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>C</entry>
+<entry>28.6</entry>
+<entry>1.72</entry>
+<entry>1.09</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>N</entry>
+<entry>39.6</entry>
+<entry>2.45</entry>
+<entry>1.40</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>O</entry>
+<entry>52.6</entry>
+<entry>3.12</entry>
+<entry>1.31</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>F</entry>
+<entry>67.2</entry>
+<entry>3.88</entry>
+<entry>1.68</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Ne</entry>
+<entry>84.0</entry>
+<entry>4.68</entry>
+<entry>2.08</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Na</entry>
+<entry>104</entry>
+<entry>6.84</entry>
+<entry>3.67</entry>
+<entry>0.50</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Mg</entry>
+<entry>126</entry>
+<entry>9.07</entry>
+<entry>5.31</entry>
+<entry>0.74</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Al</entry>
+<entry>151</entry>
+<entry>12.1</entry>
+<entry>7.79</entry>
+<entry>1.09</entry>
+<entry>0.58</entry>
+<entry/>
+</row>
+<row>
+<entry>Si</entry>
+<entry>178</entry>
+<entry>15.1</entry>
+<entry>10.3</entry>
+<entry>1.46</entry>
+<entry>0.79</entry>
+<entry/>
+</row>
+<row>
+<entry>P</entry>
+<entry>208</entry>
+<entry>18.7</entry>
+<entry>13.5</entry>
+<entry>1.95</entry>
+<entry>1.01</entry>
+<entry/>
+</row>
+<row>
+<entry>S</entry>
+<entry>239</entry>
+<entry>22.7</entry>
+<entry>16.5</entry>
+<entry>2.05</entry>
+<entry>1.00</entry>
+<entry/>
+</row>
+<row>
+<entry>Cl</entry>
+<entry>273</entry>
+<entry>26.8</entry>
+<entry>20.2</entry>
+<entry>2.44</entry>
+<entry>1.25</entry>
+<entry/>
+</row>
+<row>
+<entry>Ar</entry>
+<entry>309</entry>
+<entry>31.5</entry>
+<entry>24.1</entry>
+<entry>2.82</entry>
+<entry>1.52</entry>
+<entry/>
+</row>
+<row>
+<entry>K</entry>
+<entry>347</entry>
+<entry>37.1</entry>
+<entry>29.1</entry>
+<entry>3.93</entry>
+<entry>2.38</entry>
+<entry>0.42</entry>
+</row>
+<row>
+<entry>Ca</entry>
+<entry>390</entry>
+<entry>42.7</entry>
+<entry>34.0</entry>
+<entry>4.65</entry>
+<entry>2.9</entry>
+<entry>0.59</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+<para id="id3367431">Surprisingly, though, boron has three
+ionization energies, which does not seem consistent with the shell
+model. From the hydrogen atom energy levels, we would have expected
+that all <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> electrons would have the same energy. We can note that
+the two smaller ionization energies in boron are comparable in
+magnitude and smaller by more than a factor of ten than the
+ionization energy of the electrons in the inner shell. Thus, the
+electrons in the outer <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> shell apparently have comparable
+energies, but they are not identical. The separation of the second
+shell into two groups of electrons with two comparable but
+different energies is apparent for elements boron to neon.</para>
+<para id="id3367463">As such, we conclude from the experimental
+data that the second shell of electrons should be described as two 
+<term>subshells</term> with slightly different energies. For
+historical reasons, these subshells are referred to as the as the
+"2s" and "2p" subshells, with 2s electrons
+slightly lower in energy than 2p electrons. The energies of the 2s
+and 2p electrons decrease from boron to neon, consistent with the
+increase in the nuclear charge.</para>
+<para id="id3367493">Beginning with sodium, we observe four
+distinct ionization energies, and beginning with aluminum there are
+five. Note for these elements that the fourth and fifth ionization
+energies are again roughly a factor of ten smaller than the second
+and third ionization energies, which are in turn at least a factor
+of ten less than the first ionization energy. Thus, it appears that
+there are three shells of electrons for these atoms, consistent
+with our previous shell model. As with <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math>, the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>3</m:cn></m:apply></m:math> shell is again
+divided into two subshells, now called the 3s and 3p
+subshells.</para>
+<para id="id3367520">These data also reveal how many electrons can
+reside in each subshell. In each n level, there are two elements
+which have only the ionization energy for the s subshell. Hence, s
+subshells can hold two electrons. By contrast, there are 6 elements
+which have both the s and p subshell ionization energies, so the p
+subshell can hold 6 electrons.</para>
+
+<para id="id3369195">The shell and subshell organization of
+electron energies can also be observed by measuring the
+"electron affinity" of the atoms. Electron affinity is
+the energy released when an electron is added to an atom:</para>
+
+<equation id="eqn7">
+<m:math>
+	  <m:mrow>
+	      <m:mi>A</m:mi>
+	      <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+	      <m:mo>)</m:mo>
+	    <m:mo>+</m:mo>
+             <m:msup>
+	      <m:mi>e</m:mi>
+              <m:mo>-</m:mo>
+             </m:msup>
+	      <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+	      <m:mo>)</m:mo>
+	    <m:mo>→</m:mo>
+	   <m:msup>
+	      <m:mi>A</m:mi>
+              <m:mo>-</m:mo>
+             </m:msup>
+	      <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+	      <m:mo>)</m:mo>
+	  </m:mrow>
+	</m:math>
+      </equation>
+
+<para id="id3369254">If there is a strong attraction between the
+atom A and the added electron, then a large amount of energy is
+released during this reaction, and the electron affinity is a large
+positive number. (As a note, this convention is the opposite of the
+one usually applied for energy changes in reactions: exothermic
+reactions, which give off energy, conventionally have negative
+energy changes.)</para>
+<para id="id3369272">The electron affinities of the halogens are
+large positive values: the electron affinities of F, Cl, and Br are
+328.0 kJ/mol, 348.8 kJ/mol, and 324.6 kJ/mol. Thus, the attached
+electrons are strongly attracted to the nucleus in each of these
+atoms. This is because there is room in the current subshell to add
+an additional electron, since each atom has 5 p electrons, and the
+core charge felt by the electron in that subshell is large.</para>
+<para id="id3369293">By contrast, the electron affinities of the
+inert gases are 
+<emphasis>negative</emphasis>: the addition of an electron to an
+inert gas atom actually requires the 
+<emphasis>input</emphasis> of energy, in effect, to force the
+electron into place. This is because the added electron cannot fit
+in the current subshell and must be added to a new shell, farther
+from the nucleus. As such, the core charge felt by the added
+electron is very close to zero.</para>
+<para id="id3369327">Similarly, the electron affinities of the
+elements Be, Mg, and Ca are all negative. This is again because the
+s subshell in these atoms already has two electrons, so the added
+electron must go into a higher energy subshell with a much smaller
+core charge.</para>
+</section>
+<section id="id3369344">
+<title>Electron Waves, the Uncertainty Principle, and Electron
+Energies</title>
+<para id="id3369356">We now have a fairly detailed description of
+the energies of the electrons in atoms. What we do not have is a
+model which tells us what factors determine the energy of an
+electron in a shell or subshell. Nor do we have a model to explain
+why these energies are similar but different for electrons in
+different subshells.</para>
+<para id="id3369376">A complete answer to these questions requires
+a development of the quantum theory of electron motion in atoms.
+Because the postulates of this quantum theory cannot be readily
+developed from experimental observations, we will concern ourselves
+with a few important conclusions only.</para>
+<para id="id3369393">The first important conclusion is that the
+motion of an electron in an atom is described by a wave function.
+Interpretation of the wave motion of electrons is a very
+complicated proposition, and we will only deal at present with a
+single important consequence, namely the 
+<term>uncertainty principle</term>. A characteristic of wave motion
+is that, unlike a particle, the wave does not have a definite
+position at a single point in space. By contrast, the location of a
+particle is precise. Therefore, since an electron travels as a
+wave, we must conclude that we cannot determine the precise
+location of the electron in an atom. This is, for our purposes, the
+uncertainty principle of quantum mechanics. We 
+<emphasis>can</emphasis> make measurements of the location of the
+electron, but we find that each measurement results in a different
+value. We are then forced to accept that we cannot determine the
+precise location. We are allowed, however, to determine a 
+<term>probability distribution</term> for where the electron is
+observed.</para>
+<para id="id3369458">This probability distribution is determined by
+quantum mechanics. The motion of the electron in a hydrogen atom is
+described by a function, often called the 
+<term>wave function</term> or the 
+<term>electron orbital</term> and typically designated by the symbol Ψ. Ψ is a function of the position of the electron <m:math><m:ci type="vector">r</m:ci></m:math>, and quantum mechanics tells us that 
+<m:math>
+ <m:apply>
+  <m:power/>
+  <m:apply>
+   <m:abs/>
+   <m:ci>Ψ</m:ci>
+  </m:apply>
+  <m:cn>2</m:cn>
+ </m:apply>
+</m:math>
+is the 
+<emphasis>probability</emphasis> of observing the electron at the
+location <m:math><m:ci type="vector">r</m:ci></m:math>.</para>
+<para id="id3369535">Each electron orbital has an associated
+constant value of the electronic energy, <m:math>
+<m:msub>
+<m:mi>E</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+</m:math>, in agreement with our
+earlier conclusions. In fact, quantum mechanics exactly predicts
+the energy shells and the hydrogen atom spectrum we observe. The
+energy of an electron in an orbital is determined primarily by two
+characteristics of the orbital. The first, rather intuitive,
+property determines the average potential energy of the electron:
+an orbital which has substantial probability in regions of low
+potential energy will have a low total energy. By Coulomb’s
+law, the potential energy arising from nucleus-electron attraction
+is lower when the electron is nearer the nucleus. In atoms with
+more than one electron, electron-electron repulsion also
+contributes to the potential energy, as Coulomb’s law
+predicts an increase in potential energy arising from the repulsion
+of like charges.</para>
+<para id="id3369581">A second orbital characteristic determines the
+contribution of kinetic energy, via a more subtle effect arising
+out of quantum mechanics. As a consequence of the uncertainty
+principle, quantum mechanics predicts that, the more confined an
+electron is to a smaller region of space, the higher must be its
+average kinetic energy. Since we cannot measure the position of
+electron precisely, we define the uncertainty in the measurement as
+<m:math>
+<m:apply>
+<m:ci><m:mo>Δ</m:mo></m:ci>
+<m:ci>x</m:ci>
+</m:apply>
+</m:math>. Quantum mechanics also tells us that we cannot measure
+the momentum of an electron precisely either, so there is an
+uncertainty <m:math>
+<m:apply>
+<m:ci><m:mo>Δ</m:mo></m:ci>
+<m:ci>p</m:ci>
+</m:apply>
+</m:math> in the momentum. In mathematical detail, the
+uncertainty principle states that these uncertainties are related
+by an inequality:</para>
+
+<equation id="eqn8">
+  <m:math>
+    <m:apply>
+      <m:geq/>
+      <m:apply>
+	<m:times/>
+	<m:apply>
+	  <m:ci><m:mo>Δ</m:mo></m:ci>
+	  <m:ci>x</m:ci>
+	</m:apply>
+	<m:apply>
+	  <m:ci><m:mo>Δ</m:mo></m:ci>
+	  <m:ci>p</m:ci>
+	</m:apply>
+      </m:apply>
+      <m:apply>
+	<m:divide/>
+	<m:ci>h</m:ci>
+	<m:apply>
+	  <m:times/>
+	  <m:cn>4</m:cn>
+	  <m:pi/>
+	</m:apply>
+      </m:apply>
+    </m:apply>
+  </m:math>
+</equation>
+
+<para id="id3369665">where <m:math><m:ci>h</m:ci></m:math> is Planck’s constant,
+<m:math>
+ <m:apply>
+  <m:times/>
+   <m:cn type="e-notation">6.62<m:sep/>-34</m:cn>
+  <m:apply>
+   <m:times/>
+   <m:ci>J</m:ci>
+   <m:ci>s</m:ci>
+  </m:apply>
+ </m:apply>
+</m:math> (previously seen in <link target-id="eqn3">Einstein’s
+equation</link> for the energy of a photon). This inequality reveals that,
+when an electron moves in a small area with a correspondingly small
+uncertainty <m:math><m:apply>
+<m:ci><m:mo>Δ</m:mo></m:ci>
+<m:ci>x</m:ci>
+</m:apply></m:math>, the uncertainty in the momentum <m:math><m:apply>
+<m:ci><m:mo>Δ</m:mo></m:ci>
+<m:ci>p</m:ci>
+</m:apply></m:math>
+must be large. For <m:math><m:apply>
+<m:ci><m:mo>Δ</m:mo></m:ci>
+<m:ci>p</m:ci>
+</m:apply></m:math> to be large, the momentum must also be
+large, and so must be the kinetic energy.</para>
+<para id="id3369748">Therefore, the more compact an orbital is, the
+higher will be the average kinetic energy of an electron in that
+orbital. This extra kinetic energy, which can be regarded as the 
+<term>confinement energy</term>, is comparable in magnitude to the
+average potential energy of electron-nuclear attraction. Therefore,
+in general, an electron orbital provides a compromise, somewhat
+localizing the electron in regions of low potential energy but
+somewhat delocalizing it to lower its confinement energy.</para>
+</section>
+<section id="id3369778">
+<title>Electron Orbitals and Subshell Energies</title>
+<para id="id3369791">We need to account for the differences in
+energies of the electrons in different subshells, since we know
+that, in a Hydrogen atom, the orbital energy depends only on the n
+quantum number. We recall that, in the Hydrogen atom, there is a 
+<emphasis>single</emphasis> electron. The energy of that electron is
+thus entirely due to its kinetic energy and its attraction to the
+nucleus. The situation is different in all atoms containing more
+than one electron, because the energy of the electrons is affected
+by their mutual repulsion. This repulsion is very difficult to
+quantify, but our model must take it into account.</para>
+<para id="id3369834">A simple way to deal with the effect of
+electron-electron repulsion is to examine the shell structure of
+the atom. The two <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math> electrons in beryllium are in a shell with a
+comparatively short average distance from the nucleus. Therefore,
+the two <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> electrons are in a shell which is, on average,
+"outside" of the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math> shell. The <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math> electrons are thus
+the "core" and the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> electrons are in the valence
+shell. This structure allows us to see in a simple way the effect
+of electron-electron repulsion on the energies of the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math>
+electrons. Each <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> electron is attracted by the +4 charge on the
+tiny beryllium nucleus, but is repelled by the two -1 charges from
+the inner shell formed by the two <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math> electrons. Net, then, an <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math>
+electron effectively "sees" roughly a +2 nuclear
+charge. We refer to this +2 as the "core charge" since
+it is the net charge on the core resulting from the balance of
+attraction to the nucleus and repulsion from the core electrons.
+The nucleus is partially "shielded" from the valence
+electrons by the core electrons.</para>
+<para id="id3369947">This shielding effect does not seem to account
+for the difference in ionization energies between 2s and 2p or for
+the lower ionization energy of boron compared to beryllium, since,
+in each atom, the valence electrons are in the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> shell. However,
+the shielding effect is not perfect. Recall that we only know the 
+<emphasis>probabilities</emphasis> for observing the positions of
+the electrons. Therefore, we cannot definitely state that the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math>
+electrons are outside of the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math> core. In fact, there is some
+probability that an <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> electron might be found inside the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>1</m:cn></m:apply></m:math>
+core, an effect called "core penetration." When an <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math>
+electron does penetrate the core, it is no longer shielded from the
+nucleus. In this case, the <m:math><m:apply><m:eq/><m:ci>n</m:ci><m:cn>2</m:cn></m:apply></m:math> electron is very strongly attracted
+to the nucleus and its energy is thus lowered. What is the extent
+of this penetration? We must consult quantum theory. The answer is
+in <link target-id="fig3"/>, which shows the probability of finding an electron a
+distance <m:math><m:ci>r</m:ci></m:math> away from the nucleus for each of the 1s, 2s, and 2p
+orbitals. We can see that there is a greater probability (though
+small) for the 2s electron to penetrate the core than for the 2p
+electron to do so.</para>
+
+
+<figure id="fig3">
+	<title>Probability for an Electron at a Distance r from a Hydrogen Nucleus</title>
+	  <media id="idp1577136" alt=""><image src="../../media/fig3-d9d0.png" mime-type="image/png"/><image for="pdf" src="../../media/fig3-83ad.eps" mime-type="application/postscript"/></media>
+</figure>
+
+<para id="id3370047">As a result of the core penetration, an
+electron in a 2s orbital feels a greater "effective nuclear
+charge" than just the core charge, which was approximated by
+assuming perfect shielding. Thus the effective nuclear charge for a
+2s electron is greater than the effective nuclear charge for a 2p
+electron. Therefore, the energy of an electron in the 2s orbital in
+beryllium is lower than it would be in the 2p orbital.</para>
+<para id="id3370070">A detailed analysis from quantum mechanics
+gives the following ordering of orbitals in order of increasing
+energy:</para>
+<equation id="eqn9">
+<m:math>
+<m:apply>
+<m:lt/>
+<m:ci>1s</m:ci>
+<m:ci>2s</m:ci>
+<m:ci>2p</m:ci>
+<m:ci>3s</m:ci>
+<m:ci>3p</m:ci>
+<m:ci>4s</m:ci>
+<m:ci>3d</m:ci>
+<m:ci>4p</m:ci>
+<m:ci>5s</m:ci>
+<m:ci>...</m:ci>
+</m:apply>
+</m:math>
+</equation>
+<para id="id3370084">This ordering can be rationalized on the basis
+of effective nuclear charge, shielding, and core
+penetration.</para></section>
+<section id="id3370107"><title>Review and Discussion Questions</title>
+<exercise id="ex1"><problem id="idp42096"><para id="ex1p1">The photoelectric effect demonstrates that radiation energy
+is quantized into "packets" or photons. Explain how and why this
+observation is of significance in understanding the structure of
+atoms.</para></problem></exercise>
+<exercise id="ex2"><problem id="idm8487488"><para id="ex2p1">Explain how we can know that higher frequency light contains
+higher energy photons.</para></problem></exercise>
+<exercise id="ex3"><problem id="idp907360"><para id="ex3p1">Electron affinity is the energy released when an electron is
+attached to an atom. If an atom has a positive electron affinity,
+the added electron is attracted to the nucleus to form a stable
+negative ion. Why doesn't a Beryllium atom have a positive electron
+affinity? Explain how this demonstrates that the energy of a 2s
+orbital is less than the energy of a 2p orbital.</para>
+</problem></exercise>
+<exercise id="ex4"><problem id="idm205520"><para id="ex4p1">Why does an inert gas atom have a high ionization energy but
+a low electron affinity? Why do these properties combine to make
+the atoms of inert gases unreactive?</para>
+</problem></exercise>
+<exercise id="ex5"><problem id="idm6950336"><para id="ex5p1">Consider electrons from two different subshells in the same
+atom. In photoelectron spectroscopy, the lower energy electron has
+a higher ionization energy but is observed to have lower kinetic
+energy after ionization. Reconcile the lower energy with the higher
+ionization energy with the lower kinetic energy.</para>
+</problem></exercise>
+<exercise id="ex6"><problem id="idm7642592"><para id="ex6p1">Chlorine atoms have 5 distinct ionization energies. Explain
+why. Predict the number of ionization energies for Bromine atoms,
+and explain your answer. (Hint: examine the structure of the
+periodic table.)</para>
+</problem></exercise>
+<exercise id="ex7"><problem id="idp1218880"><para id="ex7p1">
+Why does a Bromine atom have a much smaller radius than a
+Potassium atom, even though a Br atom has 16 more electrons than
+does a K atom?</para>
+</problem></exercise>
+<exercise id="ex8"><problem id="idp1448592"><para id="ex8p1">Explain why electrons confined to smaller orbitals are
+expected to have higher kinetic energies.</para>
+</problem></exercise>
+<exercise id="ex9"><problem id="idp1734352"><para id="ex9p1">
+Define "shielding" in the context of
+electron-electron repulsion. What is the significance of shielding
+in determining the energy of an electron? How is the affected by
+core penetration?</para>
+</problem></exercise>
+</section>
+</content>
+</document>
